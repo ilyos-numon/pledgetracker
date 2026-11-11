@@ -1,0 +1,51 @@
+{
+  "name": "pledgetracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "scripts/sb-env.sh vite --port 8860 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "lint": "biome check web src scripts tests",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "e2e": "scripts/sb-env.sh playwright test",
+    "n8n:up": "scripts/sb-env.sh docker compose up -d n8n",
+    "data:validate": "node --no-warnings=ExperimentalWarning scripts/validate-dataset.ts",
+    "data:load": "scripts/sb-env.sh node --no-warnings=ExperimentalWarning --env-file-if-exists=.env scripts/load-dataset.ts",
+    "build:workflow": "node --no-warnings=ExperimentalWarning scripts/build-workflow.ts",
+    "create-reviewer": "scripts/sb-env.sh node --no-warnings=ExperimentalWarning --env-file-if-exists=.env scripts/create-reviewer.ts",
+    "catalog:load": "scripts/sb-env.sh node --no-warnings=ExperimentalWarning scripts/load-catalog.ts"
+  },
+  "dependencies": {
+    "@mantine/core": "^9.7.5",
+    "@mantine/form": "^9.7.5",
+    "@mantine/hooks": "^9.7.5",
+    "@supabase/supabase-js": "^2.119.0",
+    "gsap": "^3.15.1",
+    "openai": "^7.53.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5",
+    "unpdf": "^2.1.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.6.6",
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "fflate": "^0.8.3",
+    "postcss": "^8.5.32",
+    "postcss-preset-mantine": "^1.18.0",
+    "postcss-simple-vars": "^7.0.1",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.6",
+    "vitest": "^5.1.0"
+  }
+}
