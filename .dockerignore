@@ -1,0 +1,13 @@
+# Allow-list: the image build only needs these (see the COPY lines in Dockerfile).
+*
+!package.json
+!package-lock.json
+!tsconfig.json
+!vite.config.ts
+!postcss.config.cjs
+!src
+!web
+!deploy/nginx/default.conf
+web/dist
+**/node_modules
+**/.DS_Store

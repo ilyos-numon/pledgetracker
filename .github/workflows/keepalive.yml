@@ -1,0 +1,32 @@
+name: keepalive
+
+# 3일마다 Supabase REST 를 anon 키로 한 번 읽어 무료 프로젝트가 비활성으로 일시정지되지 않게 한다.
+on:
+  schedule:
+    - cron: '0 3 */3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    env:
+      VITE_SUPABASE_URL: ${{ vars.VITE_SUPABASE_URL }}
+      VITE_SUPABASE_ANON_KEY: ${{ vars.VITE_SUPABASE_ANON_KEY }}
+    steps:
+      - name: Ping Supabase REST
+        run: |
+          if [ -z "$VITE_SUPABASE_URL" ] || [ -z "$VITE_SUPABASE_ANON_KEY" ]; then
+            echo "::notice::VITE_SUPABASE_URL or VITE_SUPABASE_ANON_KEY is not set; keepalive skipped"
+            exit 0
+          fi
+          code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 120 \
+            "${VITE_SUPABASE_URL%/}/rest/v1/officials?select=id&limit=1" \
+            -H "apikey: $VITE_SUPABASE_ANON_KEY" || true)
+          echo "GET /rest/v1/officials -> $code"
+          if [ "$code" != "200" ]; then
+            echo "::error::Supabase REST returned $code"
+            exit 1
+          fi

@@ -1,0 +1,77 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Typecheck
+        run: npx tsc --noEmit
+
+      - name: Unit tests
+        run: npx vitest run
+
+      # 빌드 인자(VITE_*) 없이도 번들이 만들어지는지 확인한다. 배포 이미지는 deploy.yml 이 vars 로 빌드한다.
+      - name: Build
+        run: npx vite build
+
+      # 파이프라인 E2E 가 uvx 로 hwp2md 를 부른다.
+      - uses: astral-sh/setup-uv@v6
+
+      - uses: supabase/setup-cli@v1
+        with:
+          version: 2.109.0
+
+      # 로컬 Supabase 스택 + supabase/migrations 적용
+      - name: Start local Supabase
+        run: supabase start
+
+      # README 로컬 실행 3·4단계: 실데이터와 2026 당선자 목록 (sb-env.sh 가 supabase status 에서 접속값을 넣는다)
+      - name: Load datasets and catalog
+        run: |
+          for f in data/pledges/daegu-mayor-2026.json data/pledges-extra/*.json; do
+            scripts/sb-env.sh node --no-warnings=ExperimentalWarning scripts/load-dataset.ts "$f"
+          done
+          scripts/sb-env.sh node --no-warnings=ExperimentalWarning scripts/load-catalog.ts data/catalog/officials-2026.json
+
+      # 근거 수집 E2E 가 docker compose run 으로 n8n CLI 를 쓴다.
+      - name: Pull n8n image
+        run: docker compose pull n8n
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: E2E tests
+        env:
+          ILLY_SHOT_DIR: ${{ github.workspace }}/screenshots
+        run: scripts/sb-env.sh npx playwright test
+
+      - name: Upload screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: e2e-screenshots
+          path: screenshots
+          if-no-files-found: ignore

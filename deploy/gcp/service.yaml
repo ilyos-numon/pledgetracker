@@ -1,0 +1,41 @@
+# Cloud Run 서비스 pledgetracker (Knative Service 형식). 정적 SPA 를 nginx(비루트, 포트 8080)로 서빙한다.
+# 적용: deploy/gcp/apply-env.sh 가 ${IMAGE}·${PROJECT_ID} 를 채워 gcloud run services replace 한다. 자동 배포는 이미지만 바꾼다.
+# 비용: 요청이 없으면 인스턴스 0 (minScale 0), 최대 1 (maxScale 1), 요청 처리 중에만 CPU (cpu-throttling true).
+# 런타임 env·비밀 없음: Supabase 공개 값은 이미지 빌드 인자(VITE_*)로 번들에 들어간다.
+# 시작 확인은 /health 를 쓴다. /healthz 는 Cloud Run 이 앱에 넘기지 않는다.
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: pledgetracker
+  labels:
+    cloud.googleapis.com/location: asia-northeast3
+  annotations:
+    run.googleapis.com/ingress: all
+    run.googleapis.com/invoker-iam-disabled: "true"
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/minScale: "0"
+        autoscaling.knative.dev/maxScale: "1"
+        run.googleapis.com/cpu-throttling: "true"
+        run.googleapis.com/startup-cpu-boost: "true"
+    spec:
+      serviceAccountName: pledgetracker-run@${PROJECT_ID}.iam.gserviceaccount.com
+      containerConcurrency: 80
+      timeoutSeconds: 30
+      containers:
+        - image: "${IMAGE}"
+          ports:
+            - name: http1
+              containerPort: 8080
+          resources:
+            limits:
+              cpu: "1"
+              memory: 512Mi
+          startupProbe:
+            httpGet:
+              path: /health
+              port: 8080
+            periodSeconds: 5
+            failureThreshold: 12

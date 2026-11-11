@@ -1,0 +1,23 @@
+services:
+  n8n:
+    image: n8nio/n8n:2.45.5
+    ports:
+      - "8862:5678"
+    environment:
+      # 컨테이너에서 호스트의 로컬 Supabase API 로 접근한다
+      - SUPABASE_URL_FOR_N8N=${SUPABASE_URL_FOR_N8N:-http://host.docker.internal:58321}
+      - SUPABASE_SERVICE_ROLE_KEY=${SUPABASE_SERVICE_ROLE_KEY:-}
+      - PLEDGE_OFFICIAL_ID=${PLEDGE_OFFICIAL_ID:-}
+      - EVIDENCE_FEED_URLS=${EVIDENCE_FEED_URLS:-}
+      - GENERIC_TIMEZONE=Asia/Seoul
+      - TZ=Asia/Seoul
+      - N8N_BLOCK_ENV_ACCESS_IN_NODE=false
+      - N8N_DIAGNOSTICS_ENABLED=false
+      - N8N_RUNNERS_ENABLED=true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./workflows:/home/node/workflows:ro
+volumes:
+  n8n_data: {}
