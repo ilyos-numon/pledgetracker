@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "sample-oo-si",
+    "region_name": "OO시",
+    "office": "시장",
+    "person_name": "가상 당선자",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30",
+    "election_date": "2026-06-03",
+    "source_url": "https://example.org/oo-si/pledges.pdf",
+    "source_kind": "sample",
+    "is_sample": true
+  },
+  "sources": [
+    {
+      "url": "https://example.org/oo-si/pledges.pdf",
+      "title": "OO시장 당선자 공약집 (가상)",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": null
+    }
+  ],
+  "pledges": [
+    {
+      "id": "sample-oo-si-p001",
+      "seq": 1,
+      "title": "OO역 환승주차장 건립",
+      "summary": "OO역 인근에 환승주차장을 짓는다.",
+      "category": "교통",
+      "keywords": ["환승주차장", "OO역"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.11",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 없음",
+      "evidence": []
+    },
+    {
+      "id": "sample-oo-si-p002",
+      "seq": 2,
+      "title": "시내버스 노선 개편",
+      "summary": "시내버스 노선을 생활권 중심으로 다시 짠다.",
+      "category": "교통",
+      "keywords": ["버스", "노선"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.12",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "착수를 보여주는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "시내버스 노선 개편 용역 착수",
+          "url": "https://example.org/oo-si/press/bus-route",
+          "published_at": "2026-09-15",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p003",
+      "seq": 3,
+      "title": "어린이 보호구역 보행로 정비",
+      "summary": "초등학교 주변 보행로를 넓히고 정비한다.",
+      "category": "교통",
+      "keywords": ["보호구역", "보행로"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.13",
+      "status": "fulfilled",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "완료를 알리는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "official_page",
+          "title": "어린이 보호구역 정비 완료 안내",
+          "url": "https://example.org/oo-si/page/school-zone",
+          "published_at": "2026-10-20",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p004",
+      "seq": 4,
+      "title": "초등 돌봄교실 확대",
+      "summary": "초등 돌봄교실 운영 학교를 늘린다.",
+      "category": "교육",
+      "keywords": ["돌봄교실", "초등"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.14",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "착수를 보여주는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "budget",
+          "title": "2027년 본예산안 돌봄교실 항목",
+          "url": "https://example.org/oo-si/budget/2027",
+          "published_at": "2026-11-01",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p005",
+      "seq": 5,
+      "title": "청소년 진로체험센터 설치",
+      "summary": "청소년 진로체험센터를 1곳 설치한다.",
+      "category": "교육",
+      "keywords": ["진로체험", "청소년"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.15",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 없음",
+      "evidence": []
+    },
+    {
+      "id": "sample-oo-si-p006",
+      "seq": 6,
+      "title": "어르신 무료 셔틀 운행",
+      "summary": "경로당과 복지관을 잇는 셔틀을 운행한다.",
+      "category": "복지",
+      "keywords": ["셔틀", "어르신"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.16",
+      "status": "fulfilled",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "완료를 알리는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "어르신 셔틀 운행 시작",
+          "url": "https://example.org/oo-si/press/shuttle",
+          "published_at": "2026-10-01",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p007",
+      "seq": 7,
+      "title": "공공 산후조리 지원",
+      "summary": "출산 가정의 산후조리 비용 일부를 지원한다.",
+      "category": "복지",
+      "keywords": ["산후조리", "출산"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.17",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "착수를 보여주는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "council_minutes",
+          "title": "시의회 본회의 조례안 의결",
+          "url": "https://example.org/oo-si/council/postpartum",
+          "published_at": "2026-09-30",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p008",
+      "seq": 8,
+      "title": "장애인 복지관 증축",
+      "summary": "장애인 복지관 공간을 늘린다.",
+      "category": "복지",
+      "keywords": ["장애인", "복지관"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.18",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 없음",
+      "evidence": []
+    },
+    {
+      "id": "sample-oo-si-p009",
+      "seq": 9,
+      "title": "하천 산책로 조성",
+      "summary": "도심 하천을 따라 산책로를 만든다.",
+      "category": "환경",
+      "keywords": ["하천", "산책로"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.19",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "착수를 보여주는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "news",
+          "title": "하천 산책로 실시설계 발주",
+          "url": "https://example.org/oo-si/news/river-trail",
+          "published_at": "2026-10-10",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p010",
+      "seq": 10,
+      "title": "공원 미세먼지 측정소 설치",
+      "summary": "근린공원마다 미세먼지 측정소를 둔다.",
+      "category": "환경",
+      "keywords": ["미세먼지", "측정소"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.20",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 없음",
+      "evidence": []
+    },
+    {
+      "id": "sample-oo-si-p011",
+      "seq": 11,
+      "title": "전통시장 공영주차장 확충",
+      "summary": "전통시장 주변 공영주차장 면수를 늘린다.",
+      "category": "경제",
+      "keywords": ["전통시장", "공영주차장"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.21",
+      "status": "modified",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "사업 규모 조정을 알리는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "전통시장 주차장 사업 규모 조정",
+          "url": "https://example.org/oo-si/press/market-parking",
+          "published_at": "2026-10-25",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sample-oo-si-p012",
+      "seq": 12,
+      "title": "시청 민원실 야간 운영",
+      "summary": "시청 민원실을 주 2회 야간에도 연다.",
+      "category": "행정",
+      "keywords": ["민원실", "야간"],
+      "source_url": "https://example.org/oo-si/pledges.pdf",
+      "source_locator": "p.22",
+      "status": "abandoned",
+      "status_decided_at": "2026-11-01",
+      "status_reason": "계획 철회를 알리는 공개 자료 1건 확인",
+      "evidence": [
+        {
+          "kind": "official_page",
+          "title": "민원실 야간 운영 계획 철회 공지",
+          "url": "https://example.org/oo-si/page/night-desk",
+          "published_at": "2026-10-28",
+          "locator": null,
+          "note": null,
+          "checked_at": "2026-11-01"
+        }
+      ]
+    }
+  ]
+}

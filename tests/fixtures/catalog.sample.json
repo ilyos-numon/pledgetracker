@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "sample",
+  "election_date": "2026-06-03",
+  "retrieved_at": "2026-11-09",
+  "sources": [
+    { "url": "https://example.org/catalog", "title": "가상 당선자 목록 (테스트용)", "retrieved_at": "2026-11-09" }
+  ],
+  "entries": [
+    {
+      "id": "sample-yy-do",
+      "person_name": "가상 도지사",
+      "region_name": "YY도",
+      "office": "도지사",
+      "level": "metro",
+      "term_start": "2026-07-01",
+      "term_end": "2030-06-30",
+      "source_url": "https://example.org/catalog/sample-yy-do",
+      "is_sample": true
+    },
+    {
+      "id": "sample-oo-si",
+      "person_name": "가상 당선자",
+      "region_name": "OO시",
+      "office": "시장",
+      "level": "local",
+      "term_start": "2026-07-01",
+      "term_end": "2030-06-30",
+      "source_url": "https://example.org/catalog/sample-oo-si",
+      "is_sample": true
+    },
+    {
+      "id": "sample-xx-gun",
+      "person_name": "가상 군수",
+      "region_name": "XX군",
+      "office": "군수",
+      "level": "local",
+      "term_start": "2026-07-01",
+      "term_end": "2030-06-30",
+      "source_url": "https://example.org/catalog/sample-xx-gun",
+      "is_sample": true
+    }
+  ]
+}
