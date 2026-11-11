@@ -323,7 +323,7 @@ n8n 수집·LLM 추출은 로컬 운영 도구이며 배포하지 않는다. 공
 #### 첫 배포 순서
 ```bash
 # 1. GCP 자원·IAM (API·Artifact Registry·서비스 계정·WIF. 여러 번 돌려도 된다)
-GCP_PROJECT_ID=pladge-tracker-demo-514301 GCP_REGION=asia-northeast3 GITHUB_REPO=ilyos-numon/pledgetracker bash deploy/gcp/setup.sh
+GCP_PROJECT_ID=illy-portfolio GCP_REGION=asia-northeast3 GITHUB_REPO=ilyos-numon/pledgetracker bash deploy/gcp/setup.sh
 #    확인: 같은 명령에 --verify → 마지막 줄 SETUP OK
 
 # 2. 운영 DB 이전 (아래 "운영 DB 이전")
@@ -338,7 +338,7 @@ GH_TOKEN=$(gh auth token) bash deploy/gcp/gh-vars.sh
 bash deploy/gcp/push-image.sh
 
 # 6. Cloud Run 서비스 생성 (deploy/gcp/service.yaml 렌더 → services replace → /health 확인) → APPLY OK
-GCP_PROJECT_ID=pladge-tracker-demo-514301 IMAGE=asia-northeast3-docker.pkg.dev/pladge-tracker-demo-514301/pledgetracker/pledgetracker:bootstrap \
+GCP_PROJECT_ID=illy-portfolio IMAGE=asia-northeast3-docker.pkg.dev/illy-portfolio/pledgetracker/pledgetracker:bootstrap \
   bash deploy/gcp/apply-env.sh
 ```
 모든 스크립트는 `--dry-run` 으로 실행할 명령만 먼저 볼 수 있다.

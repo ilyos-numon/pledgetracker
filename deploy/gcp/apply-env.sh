@@ -4,7 +4,7 @@
 #   코드 변경 배포는 GitHub Actions(.github/workflows/deploy.yml)가 이미지만 바꾼다.
 #   setup.sh 를 먼저 실행해 서비스 계정·IAM 이 있어야 한다.
 #
-# 사용: GCP_PROJECT_ID=pladge-tracker-demo-514301 [GCP_REGION=asia-northeast3] IMAGE=<이미지> bash deploy/gcp/apply-env.sh [--dry-run] [--allow-public-iam]
+# 사용: GCP_PROJECT_ID=illy-portfolio [GCP_REGION=asia-northeast3] IMAGE=<이미지> bash deploy/gcp/apply-env.sh [--dry-run] [--allow-public-iam]
 #   --dry-run           gcloud·curl 을 실행하지 않고 할 일만 출력
 #   --allow-public-iam  서비스에 allUsers run.invoker 도 부여 (invoker-iam-disabled 가 막힐 때만)
 # 이미지: IMAGE 환경변수, 없으면 지금 서비스가 쓰는 이미지. 둘 다 없으면 안내하고 끝낸다.

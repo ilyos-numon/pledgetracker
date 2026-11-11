@@ -5,7 +5,7 @@
 #   IAM : run.developer · AR 쓰기 · 런타임 SA 사용 · WIF 사용자
 # 정적 SPA 라 런타임 비밀이 없다 (Secret Manager 를 쓰지 않음). Vite 공개 값은 이미지 빌드 인자로 들어간다.
 #
-# 사용: GCP_PROJECT_ID=pladge-tracker-demo-514301 GCP_REGION=asia-northeast3 GITHUB_REPO=ilyos-numon/pledgetracker bash deploy/gcp/setup.sh [--dry-run] [--resources-only] [--verify]
+# 사용: GCP_PROJECT_ID=illy-portfolio GCP_REGION=asia-northeast3 GITHUB_REPO=ilyos-numon/pledgetracker bash deploy/gcp/setup.sh [--dry-run] [--resources-only] [--verify]
 #   --dry-run         gcloud 를 실행하지 않고 실행할 명령만 출력
 #   --resources-only  IAM 부여를 빼고 자원만 만든다
 #   --verify          읽기 명령만으로 자원·IAM 을 확인. 모두 있으면 마지막 줄 SETUP OK, 아니면 SETUP INCOMPLETE 와 exit 1
