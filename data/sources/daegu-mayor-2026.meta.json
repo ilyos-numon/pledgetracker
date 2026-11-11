@@ -1,0 +1,48 @@
+{
+  "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+  "title": "제9회 전국동시지방선거 대구광역시장선거 당선인 선거공약서",
+  "retrieved_at": "2026-11-09",
+  "format": "pdf",
+  "sha256": "0f858c9b785765349e04ff8a48d671fab7d740fd87224b75151e84e89a90a43b",
+  "source_kind": "nec",
+  "raw_path": "data/raw/daegu-mayor-2026.pdf",
+  "portal_page": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR2",
+  "official": {
+    "region_name": "대구광역시",
+    "office": "시장",
+    "person_name": "추경호",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30"
+  },
+  "pledge_count_estimate": {
+    "main_items": 39,
+    "all_bullets": 266,
+    "note": "2~8쪽 7대 핵심공약 아래 • 항목 약 39개. 9~15쪽 분야별·구군별 세부 항목까지 세면 약 266개"
+  },
+  "text_check": {
+    "tool": "unpdf",
+    "pages": 16,
+    "non_whitespace_chars": 11363
+  },
+  "selection": {
+    "rule": "행정표준코드 순(서울→부산→대구→인천→광주→대전→울산→세종→경기→강원→충북→충남→전북→전남→경북→경남→제주) 광역단체장 먼저, 이어 같은 순서의 기초단체장. 처음으로 문서 다운로드 가능 + 공약 15~80개 + 텍스트 레이어 있음을 만족하는 곳 채택. 정당은 보지 않음.",
+    "checked": [
+      {
+        "office": "광역단체장",
+        "region": "서울특별시",
+        "result": "skip: 선관위 정책·공약마당에 선거공약서 미등록(선거공보·5대공약만, 5대공약은 5개로 15개 미만)"
+      },
+      {
+        "office": "광역단체장",
+        "region": "부산광역시",
+        "result": "skip: 선관위 정책·공약마당에 선거공약서 미등록(선거공보·5대공약만, 5대공약은 5개로 15개 미만)"
+      },
+      {
+        "office": "광역단체장",
+        "region": "대구광역시",
+        "result": "adopt: 선거공약서 PDF 다운로드 가능, 16쪽 텍스트 레이어(공백 제외 11363자), 7대 핵심공약 아래 공약 항목 약 39개"
+      }
+    ]
+  }
+}

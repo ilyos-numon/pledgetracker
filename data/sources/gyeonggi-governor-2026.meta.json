@@ -1,0 +1,48 @@
+{
+  "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+  "title": "제9회 전국동시지방선거 경기도지사선거 당선인 선거공보",
+  "retrieved_at": "2026-11-09",
+  "format": "pdf",
+  "sha256": "9422ed80fcdc7d855e8df0eae1e66d1c0ee99f9107a28259f52253b7471ab25b",
+  "source_kind": "nec",
+  "raw_path": "data/raw/gyeonggi-governor-2026.pdf",
+  "portal_page": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR2",
+  "official": {
+    "region_name": "경기도",
+    "office": "도지사",
+    "person_name": "추미애",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30"
+  },
+  "pledge_count_estimate": {
+    "main_items": 40,
+    "all_bullets": 71,
+    "note": "7~8쪽 7개 분야 아래 \"-\" 항목 40개. 9~10쪽 시·군별 지역 공약 31개(시·군 단위 묶음)는 세부 지역 공약이라 제외"
+  },
+  "text_check": {
+    "tool": "unpdf",
+    "pages": 11,
+    "non_whitespace_chars": 4284
+  },
+  "selection": {
+    "rule": "사용자 지정 목록(대통령 + 인구 상위 4개 광역). 정당은 보지 않음.",
+    "checked": [
+      {
+        "office": "시·도지사",
+        "region": "경기도",
+        "result": "skip: 선관위 정책·공약마당 당선인 공약에 선거공약서 미등록(파일 경로 비어 있음)"
+      },
+      {
+        "office": "시·도지사",
+        "region": "경기도",
+        "result": "skip: 5대공약은 5개로 15개 미만"
+      },
+      {
+        "office": "시·도지사",
+        "region": "경기도",
+        "result": "adopt: 선관위 선거공보 PDF 다운로드 1회 성공, 11쪽 텍스트 레이어(공백 제외 4284자), 7~8쪽 분야별 공약 항목 40개"
+      }
+    ]
+  }
+}

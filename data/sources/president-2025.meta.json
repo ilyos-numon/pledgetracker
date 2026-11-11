@@ -1,0 +1,38 @@
+{
+  "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+  "title": "제21대 대통령선거 당선인 선거공약서",
+  "retrieved_at": "2026-11-09",
+  "format": "pdf",
+  "sha256": "46f8336792801b7582890ec550633923bb71f358a06e8712e1e36f1a09e68dfe",
+  "source_kind": "nec",
+  "raw_path": "data/raw/president-2025.pdf",
+  "portal_page": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR2",
+  "official": {
+    "region_name": "대한민국",
+    "office": "대통령",
+    "person_name": "이재명",
+    "election_date": "2025-06-03",
+    "term_start": "2025-06-04",
+    "term_end": "2030-06-03"
+  },
+  "pledge_count_estimate": {
+    "main_items": 43,
+    "all_bullets": 119,
+    "note": "3~15쪽 10개 장(경제·문화·외교안보·균형발전·민주주의·복지·상생·교육·미래·안전) 아래 ①~⑦ 번호 항목 43개. '·' 하위 항목까지 세면 119개. 장 10개는 15개 미만이라 ①~⑦ 계층을 공약 단위로 씀"
+  },
+  "text_check": {
+    "tool": "unpdf",
+    "pages": 16,
+    "non_whitespace_chars": 4989
+  },
+  "selection": {
+    "rule": "사용자 지정 목록(대통령 + 인구 상위 4개 광역). 정당은 보지 않음.",
+    "checked": [
+      {
+        "office": "대통령",
+        "region": "대한민국",
+        "result": "adopt: 선관위 정책·공약마당 당선인 공약(제21대 대통령선거) 선거공약서 PDF 다운로드 가능, 16쪽 텍스트 레이어(공백 제외 4,989자), ①~⑦ 공약 항목 43개"
+      }
+    ]
+  }
+}

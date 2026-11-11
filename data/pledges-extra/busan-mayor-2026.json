@@ -1,0 +1,522 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "busan-mayor-2026",
+    "region_name": "부산광역시",
+    "office": "시장",
+    "person_name": "전재수",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30",
+    "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+    "source_kind": "nec",
+    "is_sample": false
+  },
+  "sources": [
+    {
+      "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "title": "제9회 전국동시지방선거 부산광역시장선거 당선인 선거공보",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": "195059d268dc4f88b8beb2df40c6815f4448915bc3bb7257895c43c2a3994dec"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "busan-mayor-2026-p001",
+      "seq": 1,
+      "title": "동남투자공사 설립",
+      "summary": "50조 규모의 동남투자공사를 설립해 조선·해운·항만·물류·제조업의 혁신과 대형화를 이끈다.",
+      "category": "경제",
+      "keywords": [
+        "동남투자공사",
+        "조선",
+        "해운",
+        "항만",
+        "물류"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.6 해양수도 부산을 완성하겠습니다",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p002",
+      "seq": 2,
+      "title": "영세 화물차주 및 택배 종사자 '유류비 특별 지원금'",
+      "summary": "부산 민생 100일 비상조치로 영세 화물차주 및 택배 종사자에게 '유류비 특별 지원금'을 지원한다.",
+      "category": "경제",
+      "keywords": [
+        "유류비 특별 지원금",
+        "화물차주",
+        "택배 종사자"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 부산 민생 100일 비상조치",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p003",
+      "seq": 3,
+      "title": "전통시장 및 소상공인 '에너지 바우처' 지급",
+      "summary": "부산 민생 100일 비상조치로 전통시장 및 소상공인에게 '에너지 바우처'를 지급한다.",
+      "category": "경제",
+      "keywords": [
+        "에너지 바우처",
+        "전통시장",
+        "소상공인"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 부산 민생 100일 비상조치",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p004",
+      "seq": 4,
+      "title": "골목상권 심폐소생! 동백전 캐시백 15% 한시 상향",
+      "summary": "부산 민생 100일 비상조치로 골목상권을 위해 동백전 캐시백을 15%로 한시 상향한다.",
+      "category": "경제",
+      "keywords": [
+        "동백전",
+        "캐시백",
+        "골목상권"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 부산 민생 100일 비상조치",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p005",
+      "seq": 5,
+      "title": "공공근로형 '민생 지킴이' 운영 및 공공 일자리 확대",
+      "summary": "부산 민생 100일 비상조치로 공공근로형 '민생 지킴이'를 운영하고 공공 일자리를 확대한다.",
+      "category": "경제",
+      "keywords": [
+        "민생 지킴이",
+        "공공근로",
+        "공공 일자리"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 부산 민생 100일 비상조치",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p006",
+      "seq": 6,
+      "title": "소상공인 카드 수수료 제로화·배달 수수료 지원",
+      "summary": "부산 민생 100일 비상조치로 소상공인 카드 수수료 제로화와 배달 수수료 지원을 한다.",
+      "category": "경제",
+      "keywords": [
+        "카드 수수료",
+        "배달 수수료",
+        "소상공인"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 부산 민생 100일 비상조치",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p007",
+      "seq": 7,
+      "title": "민생금융범죄 특별사법경찰제도 조속 도입",
+      "summary": "부산 민생 100일 비상조치로 민생금융범죄 특별사법경찰제도를 조속히 도입한다.",
+      "category": "안전",
+      "keywords": [
+        "민생금융범죄",
+        "특별사법경찰"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 부산 민생 100일 비상조치",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p008",
+      "seq": 8,
+      "title": "가덕도신공항 완공 및 안전 개항",
+      "summary": "북극항로 시대 교통·물류 대전환으로 가덕도신공항을 완공하고 안전하게 개항한다.",
+      "category": "교통",
+      "keywords": [
+        "가덕도신공항"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 북극항로 시대! 교통·물류 대전환",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p009",
+      "seq": 9,
+      "title": "글로벌 물류 트라이포트 조성",
+      "summary": "북극항로 시대 교통·물류 대전환으로 글로벌 물류 트라이포트를 조성한다.",
+      "category": "교통",
+      "keywords": [
+        "트라이포트",
+        "물류"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 북극항로 시대! 교통·물류 대전환",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p010",
+      "seq": 10,
+      "title": "친환경 선박연료 벙커링 시설 및 거래 플랫폼 구축",
+      "summary": "북극항로 시대 교통·물류 대전환으로 친환경 선박연료 벙커링 시설 및 거래 플랫폼을 구축한다.",
+      "category": "경제",
+      "keywords": [
+        "친환경 선박연료",
+        "벙커링",
+        "거래 플랫폼"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 북극항로 시대! 교통·물류 대전환",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p011",
+      "seq": 11,
+      "title": "부울경 광역 교통망 완성으로 30분 생활권 구축",
+      "summary": "부울경 광역 교통망을 완성해 30분 생활권을 구축한다.",
+      "category": "교통",
+      "keywords": [
+        "부울경",
+        "광역 교통망",
+        "30분 생활권"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 북극항로 시대! 교통·물류 대전환",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p012",
+      "seq": 12,
+      "title": "경부선 철도 단계적 지하화",
+      "summary": "경부선 철도를 단계적으로 지하화한다.",
+      "category": "교통",
+      "keywords": [
+        "경부선",
+        "철도 지하화"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.7 북극항로 시대! 교통·물류 대전환",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p013",
+      "seq": 13,
+      "title": "서부산 낙동강AI산업벨트(제조AX플랫폼) 구축",
+      "summary": "서부산 낙동강AI산업벨트(제조AX플랫폼)를 구축한다: 북구 AI소재·데이터허브, 사상 AI공정혁신(스마트공장 실증), 사하 AI산업운영 클러스터.",
+      "category": "경제",
+      "keywords": [
+        "낙동강AI산업벨트",
+        "제조AX플랫폼",
+        "북구",
+        "사상",
+        "사하",
+        "스마트공장"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.8 AI 강국 핵심 도시 부산",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p014",
+      "seq": 14,
+      "title": "동부산 글로벌 미디어AI(영화·게임·AI융합) 특구 유치",
+      "summary": "동부산에 글로벌 미디어AI(영화·게임·AI융합) 특구를 유치하고, 지역 11개 대학 연계 AI영상센터·AI캠퍼스를 운영한다.",
+      "category": "경제",
+      "keywords": [
+        "미디어AI 특구",
+        "동부산",
+        "AI영상센터",
+        "AI캠퍼스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.8 AI 강국 핵심 도시 부산",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p015",
+      "seq": 15,
+      "title": "부산(신항 7부두)-UAE AI항만·물류 공동프로젝트",
+      "summary": "부산(신항 7부두)-UAE AI항만·물류 공동프로젝트로 항만물류 국제 표준화 해외 진출, 매년 수조원 국부 창출을 꾀한다.",
+      "category": "경제",
+      "keywords": [
+        "신항 7부두",
+        "UAE",
+        "AI항만"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.8 AI 강국 핵심 도시 부산",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p016",
+      "seq": 16,
+      "title": "해양수산 기업·기관 집적단지 구축",
+      "summary": "해양수산 기업·기관 집적단지를 구축한다: 항만물류AI '팀코리아 컨소시엄' 50여개 강소기업 거점 구축, 경부선 지하화 지역 'AI밸리' 단계적 구축(AI기업, 스타트업 등).",
+      "category": "경제",
+      "keywords": [
+        "해양수산 집적단지",
+        "팀코리아 컨소시엄",
+        "AI밸리",
+        "경부선"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.8 AI 강국 핵심 도시 부산",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p017",
+      "seq": 17,
+      "title": "아이 낳고 키우기 좋은 도시",
+      "summary": "공공산후조리원 신설 및 확대, 부산형 아동치과 주치의 제도 도입.",
+      "category": "복지",
+      "keywords": [
+        "공공산후조리원",
+        "아동치과 주치의"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.9 복지 / 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p018",
+      "seq": 18,
+      "title": "돌봄 종사자가 존중받는 도시",
+      "summary": "돌봄 종사자 수당 현실화, 돌봄 종사자 감정노동 보호 및 심리회복 프로그램 강화.",
+      "category": "복지",
+      "keywords": [
+        "돌봄 종사자 수당",
+        "감정노동 보호",
+        "심리회복 프로그램"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.9 복지 / 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p019",
+      "seq": 19,
+      "title": "치매 걱정 덜어주는 도시",
+      "summary": "초기치매 조기개입 패키지(바우처 지급), 디지털 치매안심망 및 실종예방 시스템.",
+      "category": "복지",
+      "keywords": [
+        "초기치매 조기개입 패키지",
+        "치매안심망",
+        "실종예방 시스템"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.9 복지 / 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p020",
+      "seq": 20,
+      "title": "아프면 쉴 권리가 보장되는 도시",
+      "summary": "부산형 상병수당 도입, 소규모 사업장 산업안전 보건 강화.",
+      "category": "복지",
+      "keywords": [
+        "부산형 상병수당",
+        "산업안전 보건"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.9 복지 / 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p021",
+      "seq": 21,
+      "title": "어르신의 일상을 챙기는 도시",
+      "summary": "노인 무상 급식 지원 예산 확대, 구별 인생후반전지원센터 건립 지원.",
+      "category": "복지",
+      "keywords": [
+        "노인 무상 급식",
+        "인생후반전지원센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.9 복지 / 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p022",
+      "seq": 22,
+      "title": "급한 돌봄에 즉각 도움 주는 도시",
+      "summary": "사람이 함께 하는 '부산 올케어 동행' 3,000명 단계적 채용, 돌봄 원스톱 지원 플랫폼 구축.",
+      "category": "복지",
+      "keywords": [
+        "부산 올케어 동행",
+        "돌봄 원스톱 지원 플랫폼"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.9 복지 / 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p023",
+      "seq": 23,
+      "title": "청년이 시정의 주인인 도시",
+      "summary": "시장 직속 청년정책 전담기구 신설, 자기 주도형 일 경험 프로그램 신설.",
+      "category": "행정",
+      "keywords": [
+        "청년정책 전담기구",
+        "일 경험 프로그램"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.10 청년",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p024",
+      "seq": 24,
+      "title": "청년의 사회 첫발을 응원하는 도시",
+      "summary": "'첫 경력 보장제' 도입, 자기주도형 커리어 설계 지원.",
+      "category": "경제",
+      "keywords": [
+        "첫 경력 보장제",
+        "커리어 설계"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.10 청년",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p025",
+      "seq": 25,
+      "title": "청년의 새 출발을 돕는 도시",
+      "summary": "부산 첫 진입 청년 단기 임대 지원(워밍업하우스), 프리랜서/N잡러지원센터 설치.",
+      "category": "복지",
+      "keywords": [
+        "워밍업하우스",
+        "N잡러지원센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.10 청년",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p026",
+      "seq": 26,
+      "title": "좋은 일자리가 늘어나는 도시",
+      "summary": "생활임금 확대 및 민간부문 확산, 사회서비스 공공지원 강화로 좋은 일자리 선순환.",
+      "category": "경제",
+      "keywords": [
+        "생활임금",
+        "사회서비스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.10 일자리",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p027",
+      "seq": 27,
+      "title": "여성의 내일을 이어주는 도시",
+      "summary": "경력보유 여성 맞춤형 리턴십 프로그램, 미래 유망산업 전환 교육 및 창업지원 강화.",
+      "category": "경제",
+      "keywords": [
+        "리턴십 프로그램",
+        "창업지원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.10 일자리",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    },
+    {
+      "id": "busan-mayor-2026-p028",
+      "seq": 28,
+      "title": "사회적 일자리가 풍성한 도시",
+      "summary": "사회적경제기업 지원예산 복원, 신중년 사회적경제 창업학교 신설.",
+      "category": "경제",
+      "keywords": [
+        "사회적경제기업",
+        "사회적경제 창업학교"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+      "source_locator": "p.10 일자리",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "근거 미확인 (검토 범위 밖)",
+      "evidence": []
+    }
+  ]
+}

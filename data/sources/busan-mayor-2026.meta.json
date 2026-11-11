@@ -1,0 +1,48 @@
+{
+  "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/2600/003_100163192_20260526_2.pdf",
+  "title": "제9회 전국동시지방선거 부산광역시장선거 당선인 선거공보",
+  "retrieved_at": "2026-11-09",
+  "format": "pdf",
+  "sha256": "195059d268dc4f88b8beb2df40c6815f4448915bc3bb7257895c43c2a3994dec",
+  "source_kind": "nec",
+  "raw_path": "data/raw/busan-mayor-2026.pdf",
+  "portal_page": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR2",
+  "official": {
+    "region_name": "부산광역시",
+    "office": "시장",
+    "person_name": "전재수",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30"
+  },
+  "pledge_count_estimate": {
+    "main_items": 28,
+    "all_bullets": 48,
+    "note": "책자형 선거공보 11쪽. 1~5쪽·11쪽은 소개·현황·성과, 6쪽 해양수도 서술에 동남투자공사 설립 약속 1개, 7쪽 민생 100일 비상조치 6 + 교통·물류 5, 8쪽 AI 4(하위 - 항목 5, 구별 표 3), 9쪽 복지/돌봄 소제목 6(- 항목 12), 10쪽 청년·일자리 소제목 6(- 항목 12). 추출은 섹션 아래 항목·소제목 단위 27개 + 동남투자공사 1개 = 28개"
+  },
+  "text_check": {
+    "tool": "unpdf",
+    "pages": 11,
+    "non_whitespace_chars": 2307
+  },
+  "selection": {
+    "rule": "사용자 지정 목록(대통령 + 인구 상위 4개 광역). 정당은 보지 않음.",
+    "checked": [
+      {
+        "office": "광역단체장",
+        "region": "부산광역시",
+        "result": "skip: 선관위 정책·공약마당 당선인 공약에 선거공약서 미등록(파일 경로 비어 있음, 2026-11-09 목록 조회)"
+      },
+      {
+        "office": "광역단체장",
+        "region": "부산광역시",
+        "result": "skip: 선관위 5대공약은 5개로 15개 미만"
+      },
+      {
+        "office": "광역단체장",
+        "region": "부산광역시",
+        "result": "adopt: 선관위 선거공보 PDF 다운로드 1회 성공, 11쪽 텍스트 레이어(공백 제외 2307자), 섹션 항목·소제목과 동남투자공사 28개"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+  "title": "제9회 전국동시지방선거 인천광역시장선거 당선인 선거공약서",
+  "retrieved_at": "2026-11-09",
+  "format": "pdf",
+  "sha256": "554d4f7a803bdad8fcd0ff26f007721f7151bb944c47ab08ff599f28284a0a66",
+  "source_kind": "nec",
+  "raw_path": "data/raw/incheon-mayor-2026.pdf",
+  "portal_page": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR2",
+  "official": {
+    "region_name": "인천광역시",
+    "office": "시장",
+    "person_name": "박찬대",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30"
+  },
+  "pledge_count_estimate": {
+    "main_items": 45,
+    "all_bullets": 193,
+    "note": "선거공약서 12쪽. 2~5쪽 시 전역 소제목 12개(미래비전 산업공약 AI 01~03·UN 글로벌 AI허브·Bio·Energy·Culture, 원도심 01~03, 교통 01~02; • 항목 65개), 6~7쪽 지역별 공약 11개 구·군(• 항목 77개), 8~10쪽 인천시민 모두를 위한 공약 분야 소제목 14개(• 항목 51개), 11~12쪽 인확행 약속 19개. 추출은 지역별 공약을 뺀 12 + 14 + 19 = 45개"
+  },
+  "text_check": {
+    "tool": "unpdf",
+    "pages": 12,
+    "non_whitespace_chars": 6234
+  },
+  "selection": {
+    "rule": "사용자 지정 목록(대통령 + 인구 상위 4개 광역). 정당은 보지 않음.",
+    "checked": [
+      {
+        "office": "광역단체장",
+        "region": "인천광역시",
+        "result": "adopt: 선관위 정책·공약마당 당선인 공약 목록(initUELCommimentList.do, hRegionId=2800)에 선거공약서 등록, 포털 downloadFile.do 로 PDF 1회 다운로드 성공, 12쪽 텍스트 레이어(공백 제외 6234자), 공약 45개"
+      }
+    ]
+  }
+}

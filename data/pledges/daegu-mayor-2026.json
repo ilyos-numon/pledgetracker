@@ -1,0 +1,1023 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "daegu-mayor-2026",
+    "region_name": "대구광역시",
+    "office": "시장",
+    "person_name": "추경호",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30",
+    "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+    "source_kind": "nec",
+    "is_sample": false
+  },
+  "sources": [
+    {
+      "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "title": "제9회 전국동시지방선거 대구광역시장선거 당선인 선거공약서",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": "0f858c9b785765349e04ff8a48d671fab7d740fd87224b75151e84e89a90a43b"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "daegu-mayor-2026-p001",
+      "seq": 1,
+      "title": "AI·로봇·미래모빌리티·바이오 등 첨단 신산업 메카 조성",
+      "summary": "제2알파시티 AI·로봇 융복합 클러스터 조성, 로봇테스트필드 연계 특화 캠퍼스 조성, 전기차 생산 도시 전환, 첨복단지 중심 의료·헬스케어 클러스터 조성을 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "제2알파시티",
+        "로봇테스트필드",
+        "휴머노이드",
+        "모빌리티 리빙랩",
+        "첨복단지"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.2 핵심공약 01 대구경제 대개조",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-08-05)가 국가로봇테스트필드 연계 휴머노이드 로봇 안전인증센터 구축 협약·착수보고회 완료와 5년간 186.5억 원 투입을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 국내 최초 ‘휴머노이드 로봇 안전인증센터’ 구축 본격화",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278237",
+          "published_at": "2026-08-05",
+          "locator": "대구광역시 보도자료(2026-08-05) 2번째 항목",
+          "note": "산업부 공모 선정 이어 협약·착수보고회 완료… 5년간 186.5억 원 투입",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p002",
+      "seq": 2,
+      "title": "AX(인공지능전환) 전략으로 주력·연고 산업 경쟁력 강화",
+      "summary": "패션 소재 테크섬유, 기계 부품 스마트 제조 전환, 자동차 부품 미래차 전환, 안경 산업, 지역 건설산업, 수출기업 글로벌화 등 6개 산업을 지원한다.",
+      "category": "경제",
+      "keywords": [
+        "AX",
+        "테크섬유",
+        "염색산단",
+        "K-아이웨어파크",
+        "건설산업 혁신 펀드",
+        "TK 신공항 수출벨트"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.2 핵심공약 01 대구경제 대개조",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-08-09)가 제조AI데이터 밸류체인 구축 사업의 국비 150억 원 확보와 총사업비 225억 원 투입을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 전통 제조업 AI 전환 가속화… ‘제조AI데이터 밸류체인’ 본격 구축",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278281",
+          "published_at": "2026-08-09",
+          "locator": "대구광역시 보도자료(2026-08-09) 4번째 항목",
+          "note": "산업부 공모 선정으로 국비 150억 원 확보, 총사업비 225억 원 투입",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p003",
+      "seq": 3,
+      "title": "삼성전자·SK하이닉스 반도체 팹(Fab) 유치 통해 대구 GRDP 200조 원 달성, 고연봉 일자리 등 50만 개 창출",
+      "summary": "반도체 팹(Fab) 유치로 대구 GRDP 200조 원과 일자리 50만 개 창출을 목표로 한다.",
+      "category": "경제",
+      "keywords": [
+        "반도체 팹",
+        "삼성전자",
+        "SK하이닉스",
+        "GRDP"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.3 핵심공약 02 국내외 대기업 유치 통한 고연봉 일자리 창출",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p004",
+      "seq": 4,
+      "title": "테슬라 아시아 제2공장 유치",
+      "summary": "테슬라 아시아 제2공장 유치를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "테슬라",
+        "아시아 제2공장"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.3 핵심공약 02 국내외 대기업 유치 통한 고연봉 일자리 창출",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p005",
+      "seq": 5,
+      "title": "현대로보틱스·현대차 등 로봇·미래차 생산 기지 확장·유치",
+      "summary": "현대로보틱스·현대차 등 글로벌 R&D 캠퍼스·생산시설 확장·유치를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "현대로보틱스",
+        "현대차",
+        "미래차 생산 기지"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.3 핵심공약 02 국내외 대기업 유치 통한 고연봉 일자리 창출",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p006",
+      "seq": 6,
+      "title": "SK·네이버 등 AI·데이터센터 유치",
+      "summary": "SK·네이버 등 AI·데이터센터 유치를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "데이터센터",
+        "SK",
+        "네이버"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.3 핵심공약 02 국내외 대기업 유치 통한 고연봉 일자리 창출",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-29)가 SK 측의 AI 데이터센터 추진 중단 통보와 시의 대안 제시 요구를 적고 있음. 유치 착수 근거는 확인하지 못함",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "추경호 대구시장, SK AI 데이터센터 중단에 대한 강한 유감 표명과 대안 요구",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278142",
+          "published_at": "2026-07-29",
+          "locator": "대구광역시 보도자료(2026-07-29) 1번째 항목",
+          "note": "SK는 AI데이터센터 건립을 사실상 전임시장 시절인 2025년 상반기부터 추진 중단하고 2026년 1월 대구시에 일방적 중단 통보",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p007",
+      "seq": 7,
+      "title": "K-아레나 (5만석 규모), 대규모 체육관(5천석 규모) 조성 등도 민간(관련 대기업 등)과 협업하여 시민 문화·체육 인프라 대폭 확충",
+      "summary": "민간(관련 대기업 등)과 협업해 5만석 규모 K-아레나와 5천석 규모 체육관을 조성한다.",
+      "category": "문화",
+      "keywords": [
+        "K-아레나",
+        "대규모 체육관",
+        "민간 협업"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.3 핵심공약 02 국내외 대기업 유치 통한 고연봉 일자리 창출",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p008",
+      "seq": 8,
+      "title": "대형건설사 와 협력 네트워크 구축 통해 지역 건설산업 활성화",
+      "summary": "대규모 후적지 개발, 광역철도·도로 인프라 조성, 건설산업 활성화 펀드 등을 지원한다.",
+      "category": "경제",
+      "keywords": [
+        "대형건설사",
+        "협력 네트워크",
+        "건설산업 활성화 펀드"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.3 핵심공약 02 국내외 대기업 유치 통한 고연봉 일자리 창출",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-08-13)가 50억 원 이상 공사 상생MOU 의무화·매칭교류회 개최와 대형공사 공구분할 사전검토 의무화를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "추경호 시장, 대구 건설업계 오랜 현안 일괄 해소한다! 공구분할 제도화, 하도급률 상향, 금융지원 확대 등… 건설업계 적극환영",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278337",
+          "published_at": "2026-08-13",
+          "locator": "대구광역시 보도자료(2026-08-13) 1번째 항목",
+          "note": "50억원 이상 공사 상생MOU 의무화･매칭교류회 개최… 지역 하도급률 70% 이상 목표",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p009",
+      "seq": 9,
+      "title": "TK 신공항 국가사업으로 전환해 민간공항 개항을 앞당기겠습니다!",
+      "summary": "TK 신공항 특별법 개정(군 공항은 국방부, 민간 공항은 국토부), 접근성 개선 인프라 확충·후적지 개발 패키지, 국가사업전환과 토지보상/기본설계 동시 추진.",
+      "category": "교통",
+      "keywords": [
+        "TK 신공항",
+        "신공항 특별법",
+        "민간공항",
+        "국가사업 전환"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.4 핵심공약 03 숙원사업 해결로 대구 미래 성장판 대개조",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p010",
+      "seq": 10,
+      "title": "대구·경북을 하나로! ‘550만 통합 메가시티’를 조성하겠습니다!",
+      "summary": "TK 경제연합 즉시 출범, 2028년 통합특별시장 선출을 위한 행정통합 특별법 추진.",
+      "category": "행정",
+      "keywords": [
+        "통합 메가시티",
+        "TK 경제연합",
+        "행정통합 특별법"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.4 핵심공약 03 숙원사업 해결로 대구 미래 성장판 대개조",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p011",
+      "seq": 11,
+      "title": "30년 갈등 종결! 대구의 먹는 물 안보전략을 완성하겠습니다!",
+      "summary": "낙동강 수질 및 대구 상수도를 개선하고 시민·전문가를 포함한 검증위원회를 가동한다.",
+      "category": "환경",
+      "keywords": [
+        "먹는 물",
+        "낙동강 수질",
+        "상수도",
+        "검증위원회"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.4 핵심공약 03 숙원사업 해결로 대구 미래 성장판 대개조",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-28)가 취수원 신 대안(복류수·강변여과수) 자체 검증 연구용역 착수보고회 개최를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 취수원 신 대안(복류수·강변여과수) 자체 검증 본격화",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279024",
+          "published_at": "2026-09-28",
+          "locator": "대구광역시 보도자료(2026-09-28) 4번째 항목",
+          "note": "자체 검증 연구용역 착수… 1년간 지역 전문가 중심 과학적·객관적 검증",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p012",
+      "seq": 12,
+      "title": "기업은행 본점 유치! 공공기관 2차 이전에 총력을 다하겠습니다!",
+      "summary": "기업은행 본점, 산업기술진흥원·데이터산업진흥원, 환경공단·환경산업기술원 유치와 물산업진흥원 설립을 추진한다.",
+      "category": "행정",
+      "keywords": [
+        "기업은행 본점",
+        "공공기관 2차 이전",
+        "물산업진흥원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.4 핵심공약 03 숙원사업 해결로 대구 미래 성장판 대개조",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-10-15)가 2차 공공기관 이전 대비 7개 분야 43개 지원계획안 마련을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 2차 공공기관 이전 대비 ‘7개 분야 43개 지원계획안’ 마련",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279326",
+          "published_at": "2026-10-15",
+          "locator": "대구광역시 보도자료(2026-10-15) 2번째 항목",
+          "note": "우수학군 입학 특례, 특화형 공공임대주택 공급, 영유아 24시 돌봄센터 설치 등 43개 지원계획안 발굴",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p013",
+      "seq": 13,
+      "title": "두류동 랜드마크, 공원형 신청사 건립으로 문화·녹지축을 만들겠습니다!",
+      "summary": "시민 중심 열린 청사를 친환경·문화 복합 공간으로 건립한다.",
+      "category": "행정",
+      "keywords": [
+        "신청사",
+        "두류동",
+        "공원형 청사"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.4 핵심공약 03 숙원사업 해결로 대구 미래 성장판 대개조",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p014",
+      "seq": 14,
+      "title": "서대구역세권·서부정류장 대개발로 동·서 균형발전을 완성하겠습니다!",
+      "summary": "교통·산업·주거·R&D가 융합된 복합도시 개발로 서부권 신성장 거점을 조성한다.",
+      "category": "도시",
+      "keywords": [
+        "서대구역세권",
+        "서부정류장",
+        "균형발전"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.4 핵심공약 03 숙원사업 해결로 대구 미래 성장판 대개조",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-21)가 서대구역 일원 2광장 조성사업에 15억 원 투입, 연내 설계 완료·내년 상반기 착공 계획을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 서대구역 일원에 2광장 조성사업 본격 추진",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278929",
+          "published_at": "2026-09-21",
+          "locator": "대구광역시 보도자료(2026-09-21) 7번째 항목",
+          "note": "15억 원 투입… 2027년 8월 준공 목표로 연내 설계완료 및 내년 상반기 착공",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p015",
+      "seq": 15,
+      "title": "만 65세 이상 도시철도 무료승차 대상 확대/만 70세 이상 시내버스 무료이용 시행",
+      "summary": "취임 즉시 조례 개정 및 행정절차를 추진한다.",
+      "category": "교통",
+      "keywords": [
+        "도시철도 무료승차",
+        "시내버스 무료이용",
+        "만 65세",
+        "만 70세"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p016",
+      "seq": 16,
+      "title": "소상공인보증 2.2조 원 → 10조 원, 대구형 통합 금융지원 체계 구축",
+      "summary": "소상공인보증 규모를 2.2조 원에서 10조 원으로 늘리고 대구형 통합 금융지원 체계를 구축한다.",
+      "category": "경제",
+      "keywords": [
+        "소상공인보증",
+        "통합 금융지원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-16)가 제2회 추가경정예산안 원안 통과와 중소기업·소상공인 5천억 원 금융지원 추진을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 제2회 추가경정예산안 원안 통과",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278849",
+          "published_at": "2026-09-16",
+          "locator": "대구광역시 보도자료(2026-09-16) 1번째 항목",
+          "note": "중소기업·소상공인 5천억 원 금융지원·미래 신성장펀드 1조 원 조성·전통시장·골목상권 소비 진작 특별대책 본격 추진",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p017",
+      "seq": 17,
+      "title": "‘대구로페이’ 3천억원 → 1조원으로 3배 이상 확대",
+      "summary": "대구로페이 발행 규모를 3천억원에서 1조원으로 확대한다.",
+      "category": "경제",
+      "keywords": [
+        "대구로페이",
+        "지역화폐"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p018",
+      "seq": 18,
+      "title": "월 4만5천 원 D-패스 도입으로 교통비 절감에 골목상권 활성화까지 추진",
+      "summary": "월 4만5천 원 D-패스를 도입한다.",
+      "category": "교통",
+      "keywords": [
+        "D-패스",
+        "교통비"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-28)가 D-패스 내년 3월 시행 계획과 관련 조례 개정안 입법예고를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, D-패스 내년 3월 시행… 시민 17만 3천여 명 수혜 예상",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279024",
+          "published_at": "2026-09-28",
+          "locator": "대구광역시 보도자료(2026-09-28) 2번째 항목",
+          "note": "시민 의견 수렴을 위해 조례 개정안 오는 10월 12일까지 입법예고",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p019",
+      "seq": 19,
+      "title": "소상공인 홍보 부담 확 줄이는 ‘대구맨(가칭)’ 신설",
+      "summary": "소상공인 홍보를 돕는 ‘대구맨(가칭)’을 신설한다.",
+      "category": "경제",
+      "keywords": [
+        "대구맨",
+        "소상공인 홍보"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p020",
+      "seq": 20,
+      "title": "‘대구 대박 세일’ 정례화 및 9개 구·군 ‘골목 페스티벌’ 개최",
+      "summary": "대구 대박 세일을 정례화하고 9개 구·군에서 골목 페스티벌을 연다.",
+      "category": "경제",
+      "keywords": [
+        "대구 대박 세일",
+        "골목 페스티벌"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-10-08)가 10월 12일부터 전통시장 온누리상품권 환급행사 '대구대박세일' 추진과 전통시장·골목상권 가을축제 순차 개최를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "‘대구대박세일’ 전통시장에서 장 보고 온누리상품권 받자!",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279178",
+          "published_at": "2026-10-08",
+          "locator": "대구광역시 보도자료(2026-10-08) 1번째 항목",
+          "note": "10월 12일부터 전통시장 온누리상품권 환급행사 ‘대구대박세일’ 추진",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p021",
+      "seq": 21,
+      "title": "전통시장 공영주차장 확충(스마트 주차 안내 시스템 구축)",
+      "summary": "전통시장 공영주차장을 확충하고 스마트 주차 안내 시스템을 구축한다.",
+      "category": "교통",
+      "keywords": [
+        "전통시장",
+        "공영주차장",
+        "스마트 주차"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 04 시민이 체감하는 생활경제 개선",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p022",
+      "seq": 22,
+      "title": "대구찬스 확대: 대구형 계약학과·청년 정착지원금 지급",
+      "summary": "대구형 계약학과와 청년 정착지원금 지급으로 대구찬스를 확대한다.",
+      "category": "교육",
+      "keywords": [
+        "대구찬스",
+        "계약학과",
+        "청년 정착지원금"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 05 청년이 모이고 인재가 넘치는 도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p023",
+      "seq": 23,
+      "title": "교육수도 완성, 미래 대응형 교육도시 조성(교육발전특구 본지정 등)",
+      "summary": "교육발전특구 본지정 등 미래 대응형 교육도시를 조성한다.",
+      "category": "교육",
+      "keywords": [
+        "교육발전특구",
+        "교육수도"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 05 청년이 모이고 인재가 넘치는 도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-11-04)가 교육부 교육혁신선도지역 공모 선정과 특별교부금 최대 40억 원 확보를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 교육부 교육혁신선도지역 공모 선정… 특별교부금 최대 40억 원 확보",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279665",
+          "published_at": "2026-11-04",
+          "locator": "대구광역시 보도자료(2026-11-04) 4번째 항목",
+          "note": "우수인재 양성 및 AI역량 강화 등 교육혁신 추진 기반 마련",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p024",
+      "seq": 24,
+      "title": "지역대학 10만 인재 양성 (RISE 등 대학 연계 연 2.5만 명 취업 패키지)",
+      "summary": "RISE 등 대학 연계 연 2.5만 명 취업 패키지로 지역대학 인재 10만 명을 양성한다.",
+      "category": "교육",
+      "keywords": [
+        "RISE",
+        "지역대학",
+        "취업 패키지"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 05 청년이 모이고 인재가 넘치는 도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p025",
+      "seq": 25,
+      "title": "청년이 만들어가는 청년행복도시 조성(청년 참여 거버넌스 구축)",
+      "summary": "청년 참여 거버넌스를 구축한다.",
+      "category": "복지",
+      "keywords": [
+        "청년행복도시",
+        "청년 참여 거버넌스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 05 청년이 모이고 인재가 넘치는 도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p026",
+      "seq": 26,
+      "title": "퇴직 후 재취업 전문 교육센터 운영 등 중장년 정책과 연계 추진",
+      "summary": "퇴직 후 재취업 전문 교육센터를 운영한다.",
+      "category": "경제",
+      "keywords": [
+        "재취업 교육센터",
+        "중장년"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 05 청년이 모이고 인재가 넘치는 도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p027",
+      "seq": 27,
+      "title": "D-청년패스, 청년 씨앗자금, 공공 청년주택 통합 지원",
+      "summary": "D-청년패스, 청년 씨앗자금, 공공 청년주택을 통합 지원한다.",
+      "category": "복지",
+      "keywords": [
+        "D-청년패스",
+        "청년 씨앗자금",
+        "공공 청년주택"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.5 핵심공약 05 청년이 모이고 인재가 넘치는 도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p028",
+      "seq": 28,
+      "title": "K-아레나, 세계인이 찾는 글로벌 공연장 조성",
+      "summary": "랜드마크형 초고해상도 영상 돔(관광객 200만명 유치)을 조성하고 K-컬처 복합 배후단지 관광 루트를 확보한다.",
+      "category": "문화",
+      "keywords": [
+        "K-아레나",
+        "영상 돔",
+        "K-컬처"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.6 핵심공약 06 차별없는 문화·체육 향유권 삶의 질을 올리는 정주도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p029",
+      "seq": 29,
+      "title": "주거안정 및 주거환경 개선",
+      "summary": "미분양 대책, 전세사기 피해 예방·지원, 맞춤형 주거지원, 도시공간 정비·신규주택 공급을 추진한다.",
+      "category": "도시",
+      "keywords": [
+        "미분양",
+        "전세사기",
+        "주거지원",
+        "신규주택 공급"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.6 핵심공약 06 차별없는 문화·체육 향유권 삶의 질을 올리는 정주도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-10-01)가 10월 1일부터 신규 주택건설사업 승인보류 해제와 주택시장 정상화 종합대책 마련을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 주택시장 정상화 위한 선제적 조치 취한다! 승인보류 해제·정비사업 활성화 패키지 지원 등 종합대책 마련",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279104",
+          "published_at": "2026-10-01",
+          "locator": "대구광역시 보도자료(2026-10-01) 1번째 항목",
+          "note": "10.1.(목)부터 신규 주택건설사업 승인보류 해제… 3년 8개월만 정상화",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p030",
+      "seq": 30,
+      "title": "도심 속 힐링·체험 공간 및 생태 정원 조성",
+      "summary": "숲세권 조성, 명품하천 사업, 경상감영·달성토성·대구읍성 등 전통자산 활용 체류형 관광거점 조성.",
+      "category": "환경",
+      "keywords": [
+        "숲세권",
+        "명품하천",
+        "경상감영",
+        "달성토성",
+        "대구읍성"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.6 핵심공약 06 차별없는 문화·체육 향유권 삶의 질을 올리는 정주도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-24)가 금호강·낙동강 명품하천 조성 마스터플랜 수립과 제2회 추경 기본계획 용역비 5억 원 반영을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "금호강·낙동강, 대구의 미래를 품은 ‘명품 수변공간’으로 대전환",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278989",
+          "published_at": "2026-09-24",
+          "locator": "대구광역시 보도자료(2026-09-24) 2번째 항목",
+          "note": "제2회 추경 예산에 기본계획 용역비 5억 원 우선 반영… 속도감 있게 추진",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p031",
+      "seq": 31,
+      "title": "지역 격차 없는 15분 생활권 문화·체육 인프라 구축",
+      "summary": "공공도서관, 파크골프장, 다목적 체육시설(5천석 규모 실내체육관 등), 대구문학관 클러스터, 반려동물 파크 등 생활SOC를 확충한다.",
+      "category": "문화",
+      "keywords": [
+        "15분 생활권",
+        "파크골프장",
+        "실내체육관",
+        "대구문학관",
+        "반려동물 파크"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.6 핵심공약 06 차별없는 문화·체육 향유권 삶의 질을 올리는 정주도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-28)가 파크골프장 36개소 운영과 5개소 279홀 추가 조성 중임을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "추경호 대구시장, “대구, 파크골프의 메카될 것”",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279024",
+          "published_at": "2026-09-28",
+          "locator": "대구광역시 보도자료(2026-09-28) 5번째 항목",
+          "note": "현재 36개소, 738홀의 파크골프장 운영… 5개소, 279홀 추가 조성 중",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p032",
+      "seq": 32,
+      "title": "연결의 힘, 교통 인프라 확충(대구경북 1시간 생활권, 막힘없는 초연결 도심 완성)",
+      "summary": "달빛철도, 대구권 광역철도 연장, 대구권 급행철도(DGTX), 무주∼대구 고속도로, 팔공산 관통 고속도로, 중앙고속도로(금호 JC∼의성 IC) 확장 등 광역 교통인프라를 건설한다.",
+      "category": "교통",
+      "keywords": [
+        "달빛철도",
+        "대구권 광역철도",
+        "DGTX",
+        "무주∼대구 고속도로",
+        "중앙고속도로"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.7 핵심공약 07 공간혁신으로 다시 영남의 중심 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-08-26)가 총사업비 3조 2천억 원, 총연장 70.06km 대구·경북 광역철도의 예비타당성조사 통과를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구·경북 광역철도 예타통과, ‘대구~경북이 하나의 생활권으로’",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278488",
+          "published_at": "2026-08-26",
+          "locator": "대구광역시 보도자료(2026-08-26) 1번째 항목",
+          "note": "총사업비 3조 2천억 · 총연장 70.06㎞ 광역철도 예타통과",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p033",
+      "seq": 33,
+      "title": "낡은 주거환경부터 확실히 고쳐 고품격 도시 완성",
+      "summary": "상한용적률 개선·용적률 인센티브 확대, AI 기반 스마트 건축 시스템 도입, 공공건축물 그린 리모델링 확대, 대규모 단독주택지구(수성·범어·대명·산격지구) 지침 개선을 추진한다.",
+      "category": "도시",
+      "keywords": [
+        "용적률",
+        "그린 리모델링",
+        "단독주택지구",
+        "스마트 건축"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.7 핵심공약 07 공간혁신으로 다시 영남의 중심 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-10-01)가 주거생활권계획·용적률 인센티브 확대 등 정비사업 활성화 패키지 지원과 노후계획도시 단계적 재건축 계획을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 주택시장 정상화 위한 선제적 조치 취한다! 승인보류 해제·정비사업 활성화 패키지 지원 등 종합대책 마련",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279104",
+          "published_at": "2026-10-01",
+          "locator": "대구광역시 보도자료(2026-10-01) 1번째 항목",
+          "note": "주거생활권계획, 용적률 인센티브 확대 등 정비사업 활성화 패키지 지원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p034",
+      "seq": 34,
+      "title": "대구 도심 내 군부대, 단계별 이전",
+      "summary": "국방부·외교부·환경부·주한미군사령부 실무 TF 상설화를 추진한다.",
+      "category": "도시",
+      "keywords": [
+        "군부대 이전",
+        "실무 TF",
+        "주한미군"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.7 핵심공약 07 공간혁신으로 다시 영남의 중심 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-16)가 도심 군부대 이전 군사시설 이전협의요청서의 국방부 제출을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "‘대구 군부대 이전’, 군사시설 이전협의요청서 국방부 제출",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278849",
+          "published_at": "2026-09-16",
+          "locator": "대구광역시 보도자료(2026-09-16) 3번째 항목",
+          "note": "민선 9기, 지난 4년간의 군부대 이전 준비를 공식절차로 전환",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p035",
+      "seq": 35,
+      "title": "경북도청, 대구교도소, 법원·검찰청 등 국가 소유 후적지에 국립 근대미술관·뮤지컬콤플렉스 등 국가시설 유치 추진",
+      "summary": "국가 소유 후적지에 국립 근대미술관·뮤지컬콤플렉스 등 국가시설 유치를 추진한다.",
+      "category": "문화",
+      "keywords": [
+        "경북도청 후적지",
+        "대구교도소",
+        "국립 근대미술관",
+        "뮤지컬콤플렉스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.7 핵심공약 07 공간혁신으로 다시 영남의 중심 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-11-08)가 대구교도소 후적지 개발사업의 재정경제부 국유재산정책심의 통과를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구교도소 후적지 개발 첫 관문 통과… 서남부권 새 성장거점 기대",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279721",
+          "published_at": "2026-11-08",
+          "locator": "대구광역시 보도자료(2026-11-08) 2번째 항목",
+          "note": "재정경제부 국유재산정책심의 통과… 대구교도소 후적지 개발사업 본격화",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p036",
+      "seq": 36,
+      "title": "동부소방서, 도시철도1호선 차량기지 후적지 등 시 소유 후적지 개발로 동서남북 균형 잡힌 도시개발",
+      "summary": "시 소유 후적지를 개발하고 도심융합특구 조성으로 대기업·글로벌기업 R&D 센터를 유치한다.",
+      "category": "도시",
+      "keywords": [
+        "동부소방서",
+        "차량기지 후적지",
+        "도심융합특구"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.7 핵심공약 07 공간혁신으로 다시 영남의 중심 대구",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p037",
+      "seq": 37,
+      "title": "응급실 뺑뺑이 ZERO! 실시간 의료 관제로 골든타임 사수",
+      "summary": "실시간 병상·의료진 정보 통합관제로 신속 이송체계를 구축하고 대구의료원 스마트 공공병원 전환 등 진료회송·의료정보 공유를 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "응급실",
+        "의료 관제",
+        "대구의료원",
+        "진료회송"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-07-15)가 경북대병원·계명대동산병원·대구가톨릭대병원 3곳의 권역응급의료센터 지정을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, ‘중증응급의료 안전망 강화’ 권역응급의료센터 3개소 확보",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=277945",
+          "published_at": "2026-07-15",
+          "locator": "대구광역시 보도자료(2026-07-15) 1번째 항목",
+          "note": "경북대병원·계명대동산병원·대구가톨릭대병원 3곳 지정",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p038",
+      "seq": 38,
+      "title": "건강하고 안전한 출산·보육 지원",
+      "summary": "난임부부 통합치료·심리상담, 출산·육아 저리 생활자금, 모자의료센터 기능 강화·신생아 중환자실 확충, 부모 참여형 육아 프로그램을 운영한다.",
+      "category": "복지",
+      "keywords": [
+        "난임부부",
+        "모자의료센터",
+        "신생아 중환자실",
+        "출산·보육"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-09-02)가 난임 시술비 지원 횟수 제한 폐지와 9월 30일 시행을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 난임 시술비 지원 ‘횟수 제한’ 전면 폐지",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=278616",
+          "published_at": "2026-09-02",
+          "locator": "대구광역시 보도자료(2026-09-02) 1번째 항목",
+          "note": "회당 최대 170만원, 특·광역시 최초 횟수 제한까지 폐지",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p039",
+      "seq": 39,
+      "title": "내 집에서, 건강한 삶을 보장하는 ‘단디 돌봄’",
+      "summary": "방문진료·돌봄 연계, 독거노인 AI 케어콜, 생애돌봄지원센터 운영, 어르신 백신 지원 확대를 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "단디 돌봄",
+        "방문진료",
+        "AI 케어콜",
+        "어르신 백신"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p040",
+      "seq": 40,
+      "title": "소외 없고 틈새 없는 복지",
+      "summary": "나드리콜 세밀 배차·운영, 어르신 맞춤형 일자리 확대, 대구형 리스타트 센터 지정 운영, 장애인종합복지관·스포츠센터 확충을 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "나드리콜",
+        "리스타트 센터",
+        "장애인종합복지관"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "대구시 보도자료(2026-11-04)가 2027년 1월 나드리콜 분리배차 시행과 콜택시 증차 계획을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대구시, 분리배차제 시행 등 나드리콜 운영체계 재설계",
+          "url": "https://info.daegu.go.kr/newshome/mtnmain.php?mtnkey=articleview&mkey=scatelist&mkey2=26&aid=279665",
+          "published_at": "2026-11-04",
+          "locator": "대구광역시 보도자료(2026-11-04) 2번째 항목",
+          "note": "2027년 1월, 휠체어·비휠체어 이용자 맞춤형 분리배차 시행",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "daegu-mayor-2026-p041",
+      "seq": 41,
+      "title": "다양성을 포용하는 가족 문화, 성평등 사회 실현",
+      "summary": "경력단절 여성 일자리 발굴, 데이트폭력·스토킹 없는 사회 환경 조성, 다양한 가족 형태 맞춤형 정책을 시행한다.",
+      "category": "복지",
+      "keywords": [
+        "경력단절 여성",
+        "성평등",
+        "데이트폭력"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p042",
+      "seq": 42,
+      "title": "재난으로부터 안전한 대구",
+      "summary": "국립재난의료교육훈련센터 유치, 대구형 초광역 재난의료 허브 구축, 옹벽·지하도·교량 등 취약 시설 안전진단, 대구지하철 화재참사 추모사업 완결을 추진한다.",
+      "category": "안전",
+      "keywords": [
+        "국립재난의료교육훈련센터",
+        "재난의료 허브",
+        "안전진단",
+        "지하철 화재참사"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    },
+    {
+      "id": "daegu-mayor-2026-p043",
+      "seq": 43,
+      "title": "공공현장 폭력·악성민원 예방 및 마음안전망 구축",
+      "summary": "공공현장 폭력·악성민원을 예방하고 마음안전망을 구축한다.",
+      "category": "안전",
+      "keywords": [
+        "악성민원",
+        "공공현장 폭력",
+        "마음안전망"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2700/004_100163199_20260526_1.pdf",
+      "source_locator": "p.8 핵심공약 08 의료·복지·안전을 촘촘히 챙기는 안심 도시 대구",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대구시 보도자료(2026-07-01~2026-11-08 발표분)에서 예산 편성·사업 착수·조례 제정 근거를 확인하지 못함",
+      "evidence": []
+    }
+  ]
+}

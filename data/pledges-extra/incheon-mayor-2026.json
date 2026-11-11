@@ -1,0 +1,965 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "incheon-mayor-2026",
+    "region_name": "인천광역시",
+    "office": "시장",
+    "person_name": "박찬대",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30",
+    "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+    "source_kind": "nec",
+    "is_sample": false
+  },
+  "sources": [
+    {
+      "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "title": "제9회 전국동시지방선거 인천광역시장선거 당선인 선거공약서",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": "554d4f7a803bdad8fcd0ff26f007721f7151bb944c47ab08ff599f28284a0a66"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "incheon-mayor-2026-p001",
+      "seq": 1,
+      "title": "UN 글로벌 AI허브 유치",
+      "summary": "UN 글로벌 AI허브 유치 추진.",
+      "category": "경제",
+      "keywords": [
+        "UN 글로벌 AI허브"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.2 미래비전 산업공약 AI — UN 글로벌 AI허브 유치 추진",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p002",
+      "seq": 2,
+      "title": "물류AI",
+      "summary": "'국제물류진흥지역' 지정으로 물류AI 중심 도시로 대도약, '물류AI'와 '피지컬AI' 결합으로 물류 자동화 강화, '인천형 물류AI' 통합 운영 시스템 구축, 글로벌AI 오토밸리 조성으로 중고차 수출 100만대 달성, '인천물류AI융합원' 구축으로 미래 물류인재 양성, '자율주행·피지컬AI 사이언스파크' 조성, '인천형 물류AI 모델' 국가 전략사업 단계적 구축.",
+      "category": "경제",
+      "keywords": [
+        "국제물류진흥지역",
+        "인천형 물류AI",
+        "글로벌AI 오토밸리",
+        "인천물류AI융합원",
+        "자율주행·피지컬AI 사이언스파크"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.2 미래비전 산업공약 AI 01 물류AI",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-07)가 제조·물류 등 주력산업과 피지컬 인공지능 융합을 위한 「피지컬 인공지능(AI) 실증센터 구축 및 운영」 사업 착수와 인천글로벌캠퍼스 내 실증센터 구축 돌입을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, '피지컬 인공지능(AI) 실증센터' 구축 착수 제조·물류 현장 지능화 속도",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015710476",
+          "published_at": "2026-10-07",
+          "locator": "인천광역시 보도자료(2026-10-07) AI혁신과",
+          "note": "피지컬 AI 실증센터 구축 사업 착수, 내년 4월까지 인프라 구축 계획",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p003",
+      "seq": 3,
+      "title": "AI커넥티드카+사이버보안",
+      "summary": "1조원 규모의 'AI커넥티드카 기술혁신 사업' 인천 유치, AI커넥티드카, 사이버보안 인증평가 기능 집적으로 미래산업기반 구축, 인천 거점대학 중심의 사이버보안 글로벌 산학연협력 체계 구축, AI기반 스마트시티 조성으로 AI기반 통합 보안 도시 구현.",
+      "category": "경제",
+      "keywords": [
+        "AI커넥티드카 기술혁신 사업",
+        "사이버보안",
+        "스마트시티"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.2 미래비전 산업공약 AI 02 AI커넥티드카+사이버보안",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p004",
+      "seq": 4,
+      "title": "반도체 첨단 패키징 산업 클러스터",
+      "summary": "'첨단 패키징 산업 클러스터' 완성, 대중소기업 간 브릿지 플랫폼 및 인천형 패키징 특화 R&D허브 구축.",
+      "category": "경제",
+      "keywords": [
+        "첨단 패키징 산업 클러스터",
+        "인천형 패키징 특화 R&D허브"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.2 미래비전 산업공약 AI 03 반도체",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p005",
+      "seq": 5,
+      "title": "신약의 산실, 세계적 바이오 허브",
+      "summary": "인천바이오과학기술원 설립, 인천바이오펀드 조성 및 보스턴형 K-바이오랩허브 조성, 국제기준에 부합하는 시험분석 및 인증기관 집적화, 인천산단과 연계한 바이오소부장 밸류체인 구축, 바이오산업 거버넌스 정비와 전문화, 공공의대 유치, 인천바이오엑스포 개최.",
+      "category": "경제",
+      "keywords": [
+        "인천바이오과학기술원",
+        "인천바이오펀드",
+        "K-바이오랩허브",
+        "공공의대",
+        "인천바이오엑스포"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.3 미래비전 산업공약 Bio",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-01)가 송도 K-바이오 랩허브 착공식 개최(총사업비 2,240억 원, 2029년 1월 준공 목표)를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천 송도 K-바이오 랩허브 착공 바이오 창업 클러스터 조성 본격화... 2029년 1월 준공 목표",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015674704",
+          "published_at": "2026-10-01",
+          "locator": "인천광역시 보도자료(2026-10-01) 도시건축과",
+          "note": "K-바이오 랩허브 착공, 2026년 7월 시공사 선정",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p006",
+      "seq": 6,
+      "title": "산업 경쟁력 강화와 에너지 주권",
+      "summary": "수도권 에너지 거점, 해상풍력 클러스터 조성, 지역별차등요금 실현 및 분산에너지특구 지정으로 에너지비용 경쟁력 확보, 인천형 에너지 이익공유 모델 도입 및 에너지 공유경제 구축, RE100 수요기업 전력공급 네트워크 구축, 해상풍력 전문인력 양성 시스템 구축, 해상풍력 기회발전특구 지정 추진, 해상풍력 전담지원조직 설치, 안정적 전력공급을 위한 민관협력 전력망 확보.",
+      "category": "환경",
+      "keywords": [
+        "해상풍력 클러스터",
+        "분산에너지특구",
+        "RE100",
+        "해상풍력 기회발전특구"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.3 미래비전 산업공약 Energy",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-07-30)가 공공주도 해상풍력 집적화단지(IC1) 680MW에 대한 기후에너지환경부 전기위원회 발전사업허가 신청을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, 공공주도 해상풍력 집적화단지(IC1) 발전사업허가 신청",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015248066",
+          "published_at": "2026-07-30",
+          "locator": "인천광역시 보도자료(2026-07-30) 신재생에너지과",
+          "note": "해상풍력 집적화단지 발전사업허가 신청(680MW)",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p007",
+      "seq": 7,
+      "title": "사람이 모이고 돈이 도는 '문화 경제'",
+      "summary": "11개 K-컬처 산업 집적, 문화 콘텐츠 생태계 조성, 문학경기장, 'K-컬처 스타디움'으로 재탄생, '인천형 K-컬처 펀드' 조성과 'K-컬처 클러스터' 조성, 원도심과 강화도를 잇는 '인천 문화관광 길' 조성, '문학 K-컬처 스타디움'과 연계한 MICE 산업 복합지구 조성, 인천 외국 관광객 3백만 시대.",
+      "category": "문화",
+      "keywords": [
+        "문학경기장",
+        "K-컬처 스타디움",
+        "인천형 K-컬처 펀드",
+        "K-컬처 클러스터",
+        "인천 문화관광 길"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.3 미래비전 산업공약 Culture",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p008",
+      "seq": 8,
+      "title": "제물포 원도심 개발",
+      "summary": "동인천역 민자역사 철거 및 공공복합재개발, 내항일주 러닝트랙 및 터널형 아트러닝 트랙 설치, 상상플랫폼 활성화, 내항개발로 인천 관광 중심지 육성, 역사거리, 산업유산 활용.",
+      "category": "도시",
+      "keywords": [
+        "제물포",
+        "동인천역 민자역사",
+        "내항",
+        "상상플랫폼"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.4 제물포·문학·부평 01 제물포",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-08-19)가 인천항 내항 1·8부두 재개발사업 실시계획 승인과 연말 착공 예정을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "20년 기다린 인천 내항, ‘바다와 공원이 어우러진 해양문화공간’으로 재탄생한다!",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015343003",
+          "published_at": "2026-08-19",
+          "locator": "인천광역시 보도자료(2026-08-19) 제물포르네상스계획과",
+          "note": "내항 1·8부두 재개발 실시계획 승인(총사업비 6,372억 원)",
+          "checked_at": "2026-11-09"
+        },
+        {
+          "kind": "press_release",
+          "title": "인천시, 제물포 개항장 일대  ‘체류형 역사·문화 거점’으로 대전환",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015730210",
+          "published_at": "2026-10-11",
+          "locator": "인천광역시 보도자료(2026-10-11) 제물포혁신과",
+          "note": "제물포 체류형 역사·문화 거점 기반 조성 사업계획 수립, 2026년 10월부터 6년간 261억 원 투입",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p009",
+      "seq": 9,
+      "title": "문학 원도심 개발",
+      "summary": "문학 K-컬처스타디움과 구월2지구 개발을 연계한 문화 중심지 조성, 문학과 구월 구름다리 연결, MICE, 엑스포 등을 통해 콘텐츠 확산 및 청년 예술가 마을 조성.",
+      "category": "도시",
+      "keywords": [
+        "문학",
+        "K-컬처스타디움",
+        "구월2지구",
+        "청년 예술가 마을"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.4 제물포·문학·부평 02 문학",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p010",
+      "seq": 10,
+      "title": "부평 원도심 개발",
+      "summary": "캠프마켓 부지에 고품격 도서관 및 문화시설을 접목한 대규모 공원 조성, 보존가치가 있는 건물은 역사문화관, 카페 등으로 보존 활용.",
+      "category": "도시",
+      "keywords": [
+        "부평",
+        "캠프마켓"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.4 제물포·문학·부평 03 부평",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-05)가 캠프마켓 B구역 정화 완료 부지 9,500㎡ 추가 개방과 부영공원 연결통로 개통을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, 캠프마켓 개방공간 9,500㎡ 추가 확대, 부영공원 연결통로 개통",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015694195",
+          "published_at": "2026-10-05",
+          "locator": "인천광역시 보도자료(2026-10-05) 부평혁신과",
+          "note": "캠프마켓 개방공간 총 5만 8,800㎡로 확대",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p011",
+      "seq": 11,
+      "title": "철도망 구축",
+      "summary": "GTX-B노선 적시 개통, GTX-D(Y자)·E노선 제5차 국가철도망 구축계획 반영 및 조속 추진, 경인선 지하화 및 특급열차 증편, 제2경인선(수도권서남부광역철도) 신속 추진, 인천 3호선(송도검단선) 신설, 주안연수선, 용현서창선, 가좌송도선 보강 및 추진(제2차 인천 도시철도망 구축계획 보강·조기착공), 송도·영종트램 추진, 경강선 급행 논현역 정차, 인천1호선 송도 8공구 연장, 서울지하철 5호선 검단연장선 인천안 반영, 서울지하철 5호선 김포한강2지구·강화읍 연장 추진, 인천2호선 고양 연장, 수인선 만석동 연장(1km), 대장홍대선 청라·계양 연장.",
+      "category": "교통",
+      "keywords": [
+        "GTX-B",
+        "GTX-D",
+        "GTX-E",
+        "경인선 지하화",
+        "제2경인선",
+        "인천 3호선",
+        "송도·영종트램",
+        "대장홍대선"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.5 교통 수도권·인천 어디든 1시간 01 철도망",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-16)가 GTX B노선 추가정거장 건설사업의 행정안전부 중앙투자심사 통과를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "수도권광역급행철도(GTX) B노선 추가정거장 건설, 중앙투자심사 통과",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015769996",
+          "published_at": "2026-10-16",
+          "locator": "인천광역시 보도자료(2026-10-16) 철도과",
+          "note": "GTX B노선 추가정거장 중앙투자심사 통과(사업기간 2027~2033년)",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p012",
+      "seq": 12,
+      "title": "도로망 구축",
+      "summary": "동서남북 5x6 격자형 순환도로망 정비 및 구축(동서5축: 1·2경인고속도로, 공항고속도로, 제4경인고속화도로(신설), 아암대로 / 남북6축: 중봉대로, 인천대로, 중부·동부간선도로(신설), 수도권1·2순환고속도로), 경인고속도로 지하화 및 상부 공원 조성, 인천대로 일반화 및 상부 공원 조성, 영종-강화 평화도로 국도 추진, 강화-계양 고속도로 적시 개통, 인천국제공항-도심 셔틀버스 확대, 도심순환하는 급행 간선버스 노선 확충.",
+      "category": "교통",
+      "keywords": [
+        "격자형 순환도로망",
+        "제4경인고속화도로",
+        "경인고속도로 지하화",
+        "인천대로",
+        "영종-강화 평화도로",
+        "강화-계양 고속도로",
+        "급행 간선버스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.5 교통 수도권·인천 어디든 1시간 02 도로망",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-09-16)가 인천대로 일반화 2단계 사업으로 기존 방음벽 전체 물량의 50% 철거를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천대로 일반화 2단계 사업 방음벽 철거로 ‘30년간 막혔던 시야 확 트였다’",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015536664",
+          "published_at": "2026-09-16",
+          "locator": "인천광역시 보도자료(2026-09-16) 토목부",
+          "note": "인천대로 일반화 2단계 사업 방음벽 50% 철거",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p013",
+      "seq": 13,
+      "title": "행정체제 개편",
+      "summary": "신설 자치구 공공행정시설 및 복지시설 건립 지원, 송도구 신설 등 발전적 행정체제 개편 추진.",
+      "category": "행정",
+      "keywords": [
+        "신설 자치구",
+        "송도구"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.8 인천시민 모두를 위한 공약 1 행정체제 개편",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p014",
+      "seq": 14,
+      "title": "의료복지",
+      "summary": "의료·임신·출산·돌봄 서비스 통합제공 공공의료복지타운 건설, 영종병원 설립으로 재난·감염병 대응체계 구축 및 의료취약지역 인프라 구축, 의료취약지역 지원 시스템 고도화, 노인·장애인·아동·청년 등 생애주기별 맞춤형 복지체계 강화.",
+      "category": "복지",
+      "keywords": [
+        "공공의료복지타운",
+        "영종병원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.8 인천시민 모두를 위한 공약 1 의료복지",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p015",
+      "seq": 15,
+      "title": "청년",
+      "summary": "15분 역세권 고밀도 청년·신혼부부 특화 주택 보급, 청년 노동권 보호 종합 지원체계 구축, 취업 연계형 및 창업 탐색형 갭이어 프로그램 도입 지원, 위기청년 조기 발굴 및 연계 강화.",
+      "category": "복지",
+      "keywords": [
+        "청년·신혼부부 특화 주택",
+        "갭이어 프로그램",
+        "위기청년"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.8 인천시민 모두를 위한 공약 1 청년",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p016",
+      "seq": 16,
+      "title": "돌봄",
+      "summary": "AI 기반 현장 돌봄 지원 체계 구축, 원도심 아동돌봄 복합 인프라 단계적 확충, 돌봄정거장 '동네방네 도서관' 설립·운영, 이주배경 가족 통합지원 기반 강화, 인천 경계선 지능인 생애주기 통합지원체계 구축, 부모부양, 자녀양육, 장애인돌봄 등을 동시에 책임지는 이중돌봄 가구 지원 강화.",
+      "category": "복지",
+      "keywords": [
+        "동네방네 도서관",
+        "아동돌봄",
+        "경계선 지능인",
+        "이중돌봄"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.8 인천시민 모두를 위한 공약 1 돌봄",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p017",
+      "seq": 17,
+      "title": "어르신",
+      "summary": "돌봄을 위한 시니어 특화 주택 보급, 치매·정신건강 통합돌봄 연계체계 및 서비스 거점 구축, 고령층 디지털 생활교육 지원.",
+      "category": "복지",
+      "keywords": [
+        "시니어 특화 주택",
+        "치매·정신건강 통합돌봄",
+        "고령층 디지털 생활교육"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.9 인천시민 모두를 위한 공약 1 어르신",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-08-27)가 인천광역시립 치매요양원(96병상) 준공과 공공 치매돌봄 서비스 시작을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, 첫 시립 치매요양원 준공...공공 치매돌봄 시대 본격 열어",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015414862",
+          "published_at": "2026-08-27",
+          "locator": "인천광역시 보도자료(2026-08-27) 건강증진과",
+          "note": "첫 시립 치매요양원 준공(총사업비 213억 원)",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p018",
+      "seq": 18,
+      "title": "소상공인 및 중소기업",
+      "summary": "소상공인 대상 정책금융 보증지원 확대, 이음카드 혜택 확대 및 원도심 스마트 공영주차장 확대, 소상공인·중소기업을 위한 AI 적용 공동물류센터 설립, 중소기업 대상 에너지 비용 및 온실가스 진단 플랫폼 구축.",
+      "category": "경제",
+      "keywords": [
+        "정책금융 보증지원",
+        "이음카드",
+        "스마트 공영주차장",
+        "공동물류센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.9 인천시민 모두를 위한 공약 1 소상공인 및 중소기업",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-09-17)가 인천e음 캐시백 재개와 2026년 9월 18~30일 월 결제한도 50만 원에서 100만 원 확대를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "민생회복의 첫걸음, 인천e음 다시 인천시민의 일상으로",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015562474",
+          "published_at": "2026-09-17",
+          "locator": "인천광역시 보도자료(2026-09-17) 사회연대경제과",
+          "note": "인천e음 캐시백 재개, 명절 기간 결제한도 2배 확대",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p019",
+      "seq": 19,
+      "title": "장애인",
+      "summary": "인천시 청각·언어장애인 복지관 신설, 장애인주거전환지원센터, 장애인 지역사회통합지원 컨트롤타워로 전환, 군·구 장애인 자립지원 네트워크 구축 지원, 장애인 지역사회통합지원 정보 플랫폼 구축.",
+      "category": "복지",
+      "keywords": [
+        "청각·언어장애인 복지관",
+        "장애인주거전환지원센터",
+        "장애인 자립지원 네트워크"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.9 인천시민 모두를 위한 공약 1 장애인",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p020",
+      "seq": 20,
+      "title": "농어업인",
+      "summary": "농어업인 수당 인상 및 강화형 농촌기본소득 정책 시범 도입, 재생에너지(풍력·태양광) 전환 이익공유제 시행, 인천 농수산물 브랜딩 및 직판장 도입 추진, 강화 해역 24시간 조업권 확보·서검어장 이탈조업 허용 추진.",
+      "category": "경제",
+      "keywords": [
+        "농어업인 수당",
+        "농촌기본소득",
+        "재생에너지 전환 이익공유제",
+        "서검어장"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.9 인천시민 모두를 위한 공약 1 농어업인",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p021",
+      "seq": 21,
+      "title": "문화예술인",
+      "summary": "문화예술종사자 범위 확대 통한 예술인 복지 체계 사각지대 해소, 공예 창작공간 및 전시 기회 확대 등 인프라 구축, 개항장 유휴건축물 활용 창작공간 전환 지원.",
+      "category": "문화",
+      "keywords": [
+        "예술인 복지",
+        "공예 창작공간",
+        "개항장"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.9 인천시민 모두를 위한 공약 1 문화예술인",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p022",
+      "seq": 22,
+      "title": "노동&일자리",
+      "summary": "인천형 노동권익·감독 체제 구축, 필수노동자(돌봄·청소·간호 등) 노동조건 개선, 이주노동자 동행도시 인천 – 다국어 권익·숙련·정착 지원, 50+ 전직·재취업: 안전·시설·돌봄 직무 집중, 국립 노동박물관 유치.",
+      "category": "경제",
+      "keywords": [
+        "인천형 노동권익·감독 체제",
+        "필수노동자",
+        "이주노동자",
+        "국립 노동박물관"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.9 인천시민 모두를 위한 공약 1 노동&일자리",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-29)가 노동감독관 직무집행법 시행에 대응한 경제국 노동감독과 신설과 지방노동감독관 30명 증원을 담은 조직개편 추진을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, 2027년 상반기 조직개편 추진...‘노동감독과·평화협력과’신설",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015854013",
+          "published_at": "2026-10-29",
+          "locator": "인천광역시 보도자료(2026-10-29) 정책기획관",
+          "note": "노동감독과 신설, 지방노동감독관 30명 증원 조직개편",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p023",
+      "seq": 23,
+      "title": "주거",
+      "summary": "인천형 생애주기 맞춤 주거권 프로젝트(2030 직주락: 15분 역세권 고밀도 청년·신혼부부 특화 주택 / 4050 직주키움: 직주근접·커뮤니티·아이키움 원스톱 서비스 중년 특화 주택 / 6080 직주봄: 돌봄을 위한 시니어 특화 주택), 인천형 사회주택 아파트(시민리츠) 공급, 원도심 역세권 고밀도 복합개발 및 주거환경 개선.",
+      "category": "도시",
+      "keywords": [
+        "직주락",
+        "직주키움",
+        "직주봄",
+        "시민리츠",
+        "인천형 사회주택"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.10 인천시민 모두를 위한 공약 2 주거",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p024",
+      "seq": 24,
+      "title": "성평등",
+      "summary": "성별·연령·집단별 수요를 반영한 체감형 성평등 문화 확산, 성별 임금격차 해소 등 고용 핵심지표 개선, 데이터 기반 성평등 정책관리체계 구축 및 성인지통계시스템 고도화.",
+      "category": "기타",
+      "keywords": [
+        "성평등",
+        "성인지통계시스템"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.10 인천시민 모두를 위한 공약 2 성평등",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p025",
+      "seq": 25,
+      "title": "기후환경",
+      "summary": "한국환경공단 등 공공기관 존치, 종합환경연구단지에 기후·환경AI 특화 녹색융합클러스터 조성, 국제기구, 금융, 기업기술이 연결되는 기후산업 중심지 'G-blocks' 조성, 시민참여형 '탄소중립 포인트' 도입 및 기후정책 제안 플랫폼 구축.",
+      "category": "환경",
+      "keywords": [
+        "한국환경공단",
+        "종합환경연구단지",
+        "녹색융합클러스터",
+        "G-blocks",
+        "탄소중립 포인트"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.10 인천시민 모두를 위한 공약 2 기후환경",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p026",
+      "seq": 26,
+      "title": "안전",
+      "summary": "AI 기반 도시안전망 'I-safety' 구축, 전동킥보드 금지 지역 확대.",
+      "category": "안전",
+      "keywords": [
+        "I-safety",
+        "전동킥보드"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.10 인천시민 모두를 위한 공약 2 안전",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p027",
+      "seq": 27,
+      "title": "소래포구 바가지 요금 '무관용 원칙' 확립",
+      "summary": "소래포구 바가지 요금 '무관용 원칙' 확립.",
+      "category": "경제",
+      "keywords": [
+        "소래포구"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 1",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p028",
+      "seq": 28,
+      "title": "숭의아레나 최신형 전광판 도입 추진",
+      "summary": "압도적 몰입감, 숭의아레나 최신형 전광판 도입 추진.",
+      "category": "문화",
+      "keywords": [
+        "숭의아레나"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 2",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p029",
+      "seq": 29,
+      "title": "인천 8부두 일대 '오션뷰 러닝코스' 조성",
+      "summary": "인천 8부두 일대 '오션뷰 러닝코스' 조성.",
+      "category": "문화",
+      "keywords": [
+        "인천 8부두",
+        "오션뷰 러닝코스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 3",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-08-19)가 인천항 내항 1·8부두 재개발사업 실시계획 승인과 사업 내용에 내항 오션뷰 러닝코스 구축 포함을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "20년 기다린 인천 내항, ‘바다와 공원이 어우러진 해양문화공간’으로 재탄생한다!",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015343003",
+          "published_at": "2026-08-19",
+          "locator": "인천광역시 보도자료(2026-08-19) 제물포르네상스계획과",
+          "note": "내항 1·8부두 재개발 실시계획 승인, 내항 오션뷰 러닝코스 구축 포함",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p030",
+      "seq": 30,
+      "title": "어르신을 위한 공약 4종 세트",
+      "summary": "프로스포츠 온라인 예매가 어려운 디지털 취약계층 위해 현장발권 비중 확대, 1인 가구 고독사 예방 '사랑의 음료' 지원 사업, 그냥 해드림 센터 + 고령층 디지털 생활교육 지원, 파크골프 및 그라운드골프 시설 확대.",
+      "category": "복지",
+      "keywords": [
+        "사랑의 음료",
+        "그냥 해드림 센터",
+        "파크골프"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 4",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p031",
+      "seq": 31,
+      "title": "우리 아이를 위한 공약 4종 세트",
+      "summary": "전동킥보드 제한구역 확대 등 규제 강화, 어린이·청소년 자전거 안전면허 교육 도입, 초·중등 1인 1악기 교육 지원, 달빛어린이병원 운영 확대.",
+      "category": "교육",
+      "keywords": [
+        "자전거 안전면허",
+        "1인 1악기",
+        "달빛어린이병원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 5",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p032",
+      "seq": 32,
+      "title": "반려동물을 위한 공약 4종 세트",
+      "summary": "반려동물 장례시설 '인천 무지개다리센터' 설립, 반려동물 입양 시 인식칩 지원 및 반려 생활 교육 강화, 길고양이 중성화 보호기간 확대 및 사후케어 강화, '인천 반려동물 복지문화센터' 신속 완공 및 단계적 확대.",
+      "category": "기타",
+      "keywords": [
+        "인천 무지개다리센터",
+        "인천 반려동물 복지문화센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 6",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-26)가 연수구 청학동 인천광역시 반려동물복지센터 개소와 입양상담·반려동물 교육 운영을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, “행복을 입양하세요!” 반려동물복지센터 개소",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015821823",
+          "published_at": "2026-10-26",
+          "locator": "인천광역시 보도자료(2026-10-26) 농축산과",
+          "note": "반려동물복지센터 개소(총사업비 39억 300만 원)",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p033",
+      "seq": 33,
+      "title": "독립·전입 청년 1인가구에 '인천 웰컴키트' 제공",
+      "summary": "독립·전입 청년 1인가구에 '인천 웰컴키트' 제공.",
+      "category": "복지",
+      "keywords": [
+        "인천 웰컴키트"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 7",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p034",
+      "seq": 34,
+      "title": "스쿨존 제한속도 유연화",
+      "summary": "낮에는 안전하게, 밤에는 편리하게! 스쿨존 제한속도 유연화.",
+      "category": "교통",
+      "keywords": [
+        "스쿨존"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.11 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 8",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p035",
+      "seq": 35,
+      "title": "원도심 주차 공간 확보",
+      "summary": "공원과 주차장의 만남, 원도심 주차 공간 확보.",
+      "category": "교통",
+      "keywords": [
+        "원도심 주차 공간"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 9",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p036",
+      "seq": 36,
+      "title": "충전기 및 교통약자 전용 충전기 보급 확대",
+      "summary": "주택가 구석구석 촘촘한 충전기 및 교통약자 전용 충전기 등 보급 확대.",
+      "category": "교통",
+      "keywords": [
+        "교통약자 전용 충전기"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 10",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p037",
+      "seq": 37,
+      "title": "'동네방네 도서관' 건립 등 '15분 책세권' 구축",
+      "summary": "돌봄과 도서관이 만나는 '동네방네 도서관' 건립 등 '15분 책세권' 구축.",
+      "category": "문화",
+      "keywords": [
+        "동네방네 도서관",
+        "15분 책세권"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 11",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p038",
+      "seq": 38,
+      "title": "전통시장 대형 선풍기(실링팬) 보급",
+      "summary": "전통시장 대형 선풍기(실링팬) 보급.",
+      "category": "경제",
+      "keywords": [
+        "전통시장",
+        "실링팬"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 12",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p039",
+      "seq": 39,
+      "title": "e음카드 연동 QR 스마트오더 전환 지원",
+      "summary": "소상공인 매장 대상 e음카드 연동 QR 스마트오더 전환 지원.",
+      "category": "경제",
+      "keywords": [
+        "e음카드",
+        "QR 스마트오더"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 13",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p040",
+      "seq": 40,
+      "title": "'안심 개방화장실' 확대",
+      "summary": "시민은 안심, 건물주는 편안한 '안심 개방화장실' 확대.",
+      "category": "도시",
+      "keywords": [
+        "안심 개방화장실"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 14",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p041",
+      "seq": 41,
+      "title": "특별교통수단 운영비 확대 및 교통약자 바우처 택시 확대",
+      "summary": "특별교통수단 지자체 부담 운영비 확대 및 비휠체어 교통약자 바우처 택시 확대.",
+      "category": "교통",
+      "keywords": [
+        "특별교통수단",
+        "바우처 택시"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 15",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "인천시 보도자료(2026-10-13)가 영종지역 특별교통수단 5대에서 7대 증차(7월)와 10월부터 24시간 운영 확대를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인천시, 다인승 장애인 특장차 도입 등 교통약자 이동권 강화",
+          "url": "https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000015746323",
+          "published_at": "2026-10-13",
+          "locator": "인천광역시 보도자료(2026-10-13) 택시운수과",
+          "note": "특별교통수단 증차·운영시간 확대, 바우처택시 330대에서 350대 확대 계획",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "incheon-mayor-2026-p042",
+      "seq": 42,
+      "title": "소방관 개인 안전장비 예산 증액 및 현대화",
+      "summary": "소방관이 안전한 인천, 개인 안전장비 예산 증액 및 현대화.",
+      "category": "안전",
+      "keywords": [
+        "소방관 개인 안전장비"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 16",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p043",
+      "seq": 43,
+      "title": "제2형 당뇨 환자 연속혈당측정기 구입비 지원",
+      "summary": "중증·소아·청소년 제2형 당뇨 환자 연속혈당측정기 구입비 지원.",
+      "category": "복지",
+      "keywords": [
+        "연속혈당측정기"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 17",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p044",
+      "seq": 44,
+      "title": "고농도 미세먼지·오존 안심공간 '에어라운지' 조성·운영",
+      "summary": "고농도 미세먼지·오존 안심공간 '에어라운지' 조성·운영.",
+      "category": "환경",
+      "keywords": [
+        "에어라운지"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 18",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "incheon-mayor-2026-p045",
+      "seq": 45,
+      "title": "'인천 시민 아이디어 예산제' 도입",
+      "summary": "상상이 정책이 되는 '인천 시민 아이디어 예산제' 도입.",
+      "category": "행정",
+      "keywords": [
+        "인천 시민 아이디어 예산제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PRMS_DOC_PUB/2800/004_100163128_20260521_1.pdf",
+      "source_locator": "p.12 인천시민의 확실한 행복을 위한 19가지 약속(인확행) 약속 19",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "인천시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    }
+  ]
+}

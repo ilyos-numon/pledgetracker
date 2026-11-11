@@ -1,0 +1,48 @@
+{
+  "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+  "title": "제9회 전국동시지방선거 서울특별시장선거 당선인 선거공보",
+  "retrieved_at": "2026-11-09",
+  "format": "pdf",
+  "sha256": "7df44f742a6f90eddf5ecf4166babe0e9405271e84c15b89adc84209a704cc4c",
+  "source_kind": "nec",
+  "raw_path": "data/raw/seoul-mayor-2026.pdf",
+  "portal_page": "https://policy.nec.go.kr/plc/commiment/initUELCommiment.do?menuId=WINNR2",
+  "official": {
+    "region_name": "서울특별시",
+    "office": "시장",
+    "person_name": "오세훈",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30"
+  },
+  "pledge_count_estimate": {
+    "main_items": 28,
+    "all_bullets": 330,
+    "note": "책자형 선거공보 11쪽. 6~8쪽 시 전역 공약(5대 메가 비전 + 6개 분야 소제목) 아래 • 항목 약 107개, 10쪽 공통 공약 ➊~➒ 9개, 9~11쪽 25개 자치구별 • 항목 약 223개. 추출은 시 전역 소제목 19개(중복 메가 비전 2개는 해당 분야 소제목에 묶음) + 공통 공약 9개 = 28개"
+  },
+  "text_check": {
+    "tool": "unpdf",
+    "pages": 11,
+    "non_whitespace_chars": 11217
+  },
+  "selection": {
+    "rule": "사용자 지정 목록(대통령 + 인구 상위 4개 광역). 정당은 보지 않음.",
+    "checked": [
+      {
+        "office": "광역단체장",
+        "region": "서울특별시",
+        "result": "skip: 선관위 정책·공약마당 당선인 공약에 선거공약서 미등록(파일 경로 비어 있음, 2026-11-09 목록 조회)"
+      },
+      {
+        "office": "광역단체장",
+        "region": "서울특별시",
+        "result": "skip: 선관위 5대공약은 5개로 15개 미만"
+      },
+      {
+        "office": "광역단체장",
+        "region": "서울특별시",
+        "result": "adopt: 선관위 선거공보 PDF 다운로드 1회 성공, 11쪽 텍스트 레이어(공백 제외 11217자), 시 전역 공약 소제목·공통 공약 28개"
+      }
+    ]
+  }
+}

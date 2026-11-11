@@ -1,0 +1,726 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "seoul-mayor-2026",
+    "region_name": "서울특별시",
+    "office": "시장",
+    "person_name": "오세훈",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30",
+    "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+    "source_kind": "nec",
+    "is_sample": false
+  },
+  "sources": [
+    {
+      "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "title": "제9회 전국동시지방선거 서울특별시장선거 당선인 선거공보",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": "7df44f742a6f90eddf5ecf4166babe0e9405271e84c15b89adc84209a704cc4c"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "seoul-mayor-2026-p001",
+      "seq": 1,
+      "title": "한강·그린 르네상스",
+      "summary": "우리 동네 정원 3,000개소로 대폭 확대, 하천변 '서울 물빛나루' 40개소로 확대, 한강변 FUN 인프라·문화 행사 확대, 회색도시 G밸리를 '가든밸리'로 조성, 한강·하천·남산 생태성 회복 및 생물다양성 증진, '서울국제정원박람회' 서울전역 확산, '녹지생태도심 재창조', '무장애 숲길'을 추진한다.",
+      "category": "환경",
+      "keywords": [
+        "서울 물빛나루",
+        "가든밸리",
+        "서울국제정원박람회",
+        "녹지생태도심",
+        "무장애 숲길",
+        "한강"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.6 서울의 5대 메가 비전 — 한강·그린 르네상스",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-07-07)가 가든밸리 프로젝트 첫 성과로 G밸리 일대 가로숲정원 7,750㎡ 조성 완료와 2030년까지 녹지 10만㎡ 확충 계획을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "\"청년이 머무는 산업단지 만든다\"… 서울시, G밸리 10만㎡ 녹지 조성",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=461156",
+          "published_at": "2026-07-07",
+          "locator": "서울특별시 보도자료(2026-07-07) 조경과",
+          "note": "가든밸리 프로젝트 첫 성과로 구로구 일대 가로숲정원 7,750㎡ 조성 완료",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p002",
+      "seq": 2,
+      "title": "다시, 강북전성시대",
+      "summary": "강북지역+서남권에 '31년까지 20만호 주택을 공급하고, 강북전성시대기금으로 교통대동맥을 연결하며, 창동 K-엔터타운, 상암 재창조, DDP K-컬처창조타운, 제2세종문화회관·노들글로벌 예술섬을 조성한다.",
+      "category": "도시",
+      "keywords": [
+        "강북전성시대기금",
+        "창동 K-엔터타운",
+        "상암",
+        "DDP K-컬처창조타운",
+        "제2세종문화회관",
+        "노들글로벌 예술섬"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.6 서울의 5대 메가 비전 — 다시, 강북전성시대",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-07-03)가 강북 주거 개선 인센티브로 11개 자치구 사전협상 공공기여율을 60%에서 30%로 완화하는 '상생발전형 사전협상+' 도입을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "강북 주거 개선위한 초강력 인센티브… 11개 자치구 공공기여율 60→30%",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=460957",
+          "published_at": "2026-07-03",
+          "locator": "서울특별시 보도자료(2026-07-03) 공공개발담당관",
+          "note": "상생발전형 사전협상+ 도입, 공공기여율 60%→30% 완화",
+          "checked_at": "2026-11-09"
+        },
+        {
+          "kind": "press_release",
+          "title": "상암DMC 마지막 핵심부지 다시 열린다…서울시, 랜드마크 용지 공급공고",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=461384",
+          "published_at": "2026-07-10",
+          "locator": "서울특별시 보도자료(2026-07-10) 도시활력담당관",
+          "note": "7월 10일 DMC 랜드마크 용지 공급공고, 12월 사업계획서 접수 예정",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p003",
+      "seq": 3,
+      "title": "첨단·창조산업 클러스터와 권역별 경제 성장 전략",
+      "summary": "(동북권) 홍릉 바이오의료클러스터, 창동·상계 S-DBC 산업단지 지정, 성수 유니콘창업허브, (서북권) 상암 디지털콘텐츠메카, 남산 창조산업허브, 충무로 영화산업허브, (도심권) DDP K-컬처창조타운, 용산 국제업무지구, 여의도 글로벌 금융중심지, (동남권) 양재 AI테크시티, 수서 로봇클러스터·피지컬AI커넥트, SETEC 중소기업 비즈니스장, (서남권) G밸리 뿌리산업클러스터, 마곡 리빙AI배리어프리존을 조성한다. 8쪽 '넥스트이코노미 서울' 권역별 경제 성장 전략을 같은 항목으로 묶었다.",
+      "category": "경제",
+      "keywords": [
+        "홍릉 바이오의료클러스터",
+        "S-DBC",
+        "양재 AI테크시티",
+        "수서 로봇클러스터",
+        "G밸리",
+        "마곡 리빙AI배리어프리존",
+        "여의도 글로벌 금융중심지",
+        "용산 국제업무지구"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.6 서울의 5대 메가 비전 — 첨단·창조산업 클러스터 (p.8 권역별 경제 성장 전략)",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-07-05)가 홍릉 강소특구의 2년 연속 연차평가 우수 등급과 2026년 국비 인센티브 6억 원 확보, 2단계 사업 추진을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서울 바이오 혁신 거점 '홍릉', 2년 연속 강소특구 최고 등급 선정",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=460942",
+          "published_at": "2026-07-05",
+          "locator": "서울특별시 보도자료(2026-07-05) 첨단산업과",
+          "note": "국비 인센티브 6억 원 확보, 2단계 사업으로 글로벌 메디클러스터 육성",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p004",
+      "seq": 4,
+      "title": "'31년까지 31만 호 착공",
+      "summary": "핵심전략정비구역 지정으로 3년 내 8.5만호 신속 착공, 정비사업 규제 혁파(쾌속통합, 신통AI기획, 신통120, 신통확산), 강북 주거 개선을 위한 초강력 인센티브 6종 세트(성장잠재권 용도상향, 사전협상제 확대, 강북형 역세권사업 확대, 도심복합개발 특례, 사업성 보정계수 도입, 고도지구 높이 규제 혁파)를 추진한다. 6쪽 메가 비전 '신통기획 시즌2 + 무주택자 주거 안전망'의 착공 목표와 같은 내용이다.",
+      "category": "도시",
+      "keywords": [
+        "핵심전략정비구역",
+        "신통AI기획",
+        "신통120",
+        "사업성 보정계수",
+        "고도지구",
+        "성장잠재권"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 안심하고 거주하는 주거환경 — '31년까지 31만 호 착공",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-10-13)가 올해 목표 3만 호 중 약 1만 5천 호 착공과 연내 착공 예정 11개 정비사업 조합·시공사·자치구 공동협력 협약을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "2031년 31만 호 착공 속도전…오세훈 시장, 올해 3만 호 직접 챙긴다",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=467984",
+          "published_at": "2026-10-13",
+          "locator": "서울특별시 보도자료(2026-10-13) 주거정비과",
+          "note": "올해 3만 호 중 약 1만 5천 호 착공, 11개 정비사업장 공동협력 협약",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p005",
+      "seq": 5,
+      "title": "'31년까지 공공주택 약 13만호 공급 및 부담 가능한 민간임대 지원",
+      "summary": "공공분양주택(바로내집) 6,500호 공급, 빌라·다세대 건설 매년 1만 호 지원, 리츠를 통해 정비사업 이주자용 빌라·다세대 '31년까지 10만 호 공급, 주거비 금융지원 및 월세 지원을 한다. 6쪽 메가 비전에는 '31년까지 공공임대주택 약 12.3만호, 장기전세주택 10.6만 호 공급, 주택진흥기금 투입 확대, 부담 가능한 시니어주택 공급 확대가 함께 적혀 있다.",
+      "category": "도시",
+      "keywords": [
+        "바로내집",
+        "리츠",
+        "공공임대주택",
+        "장기전세주택",
+        "주택진흥기금",
+        "시니어주택"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 안심하고 거주하는 주거환경 — 공공주택 약 13만호 공급",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-08-12)가 길음역 역세권주택 및 공공임대주택사업 건축위원회 통과와 574세대 중 115세대 장기전세주택 공급 계획을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서울시, 길음 역세권 장기전세주택 건축심의 통과… 574세대 공급 추진",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=463796",
+          "published_at": "2026-08-12",
+          "locator": "서울특별시 보도자료(2026-08-12) 건축기획과",
+          "note": "8월 11일 건축위원회 통과, 장기전세 115세대, 2027년 상반기 착공 목표",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p006",
+      "seq": 6,
+      "title": "단순한 공급을 넘어 청년 삶의 질을 높이는 주거",
+      "summary": "대학생을 위한 서울형 새싹원룸·공유주택·대학캠퍼스 기숙사, 사회초년생을 위한 디딤돌청년주택·청년특화단지·청년안심주택 2.0, 신혼부부를 위한 미리내집 공급을 확대한다. 6쪽 메가 비전에는 청년·신혼부부의 주거사다리 '더드림집+' 7.4만호 공급이 적혀 있다.",
+      "category": "복지",
+      "keywords": [
+        "서울형 새싹원룸",
+        "디딤돌청년주택",
+        "청년안심주택 2.0",
+        "미리내집",
+        "더드림집+"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 안심하고 거주하는 주거환경 — 청년 삶의 질을 높이는 주거",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-08-20)가 아파트형 미리내집 58개 단지 496세대 입주자 모집 공고을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서울시, 직주락 갖춘 생활거점에 '아파트형 미리내집' 496세대 모집",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=464286",
+          "published_at": "2026-08-20",
+          "locator": "서울특별시 보도자료(2026-08-20) 청년주거과",
+          "note": "제8차 아파트형 미리내집(장기전세주택Ⅱ) 입주자 모집 공고",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p007",
+      "seq": 7,
+      "title": "강북+서남권 교통 대동맥 연결에 총 20.8조 원 투입",
+      "summary": "강북횡단 지하도시고속도로·남부순환지하고속도로 및 도시철도 7개 노선 조기 완공에 9.2조원, 동부간선도로 지하화 등 6개 사업 완공에 6.5조원을 투입한다. 6쪽 광역 교통망에는 도로(서부간선도로 확장, 신림~봉천터널, 이수~과천 복합터널, 영등포로터리 구조개선, 경부고속도로·동부간선도로·국회대로 지하화)와 철도(강북횡단선·서부선 재추진, 목동선 재설계·재추진, 동북선, 면목선, 난곡선, 우이신설연장선, 강북권역 노후역사 개선)가 적혀 있다.",
+      "category": "교통",
+      "keywords": [
+        "강북횡단 지하도시고속도로",
+        "남부순환지하고속도로",
+        "동부간선도로",
+        "강북횡단선",
+        "서부선",
+        "목동선",
+        "동북선",
+        "면목선"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 교통 대전환 서울 — 교통 대동맥 연결 20.8조 원",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p008",
+      "seq": 8,
+      "title": "CBTC로 지하철 배차간격 단축",
+      "summary": "소통하며 달리는 똑똑한 간격 유지 시스템(CBTC)으로 지하철 배차간격을 단축해 열차 혼잡도 20%p 이상, 대기시간 0.5분~1분을 감축한다.",
+      "category": "교통",
+      "keywords": [
+        "CBTC",
+        "지하철"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 교통 대전환 서울 — CBTC 배차간격 단축",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-07-14)가 우이신설선 차세대 무선통신 신호 시스템(CBTC) 구축사업 착수을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "민선9기 대중교통 대전환 신호탄… 서울시, 더 빠르고 똑똑한 지하철 차세대 신호 시스템 구축",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=461622",
+          "published_at": "2026-07-14",
+          "locator": "서울특별시 보도자료(2026-07-14) 도시철도과",
+          "note": "우이신설선부터 CBTC 구축 단계 돌입, 향후 9호선·2호선 확대",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p009",
+      "seq": 9,
+      "title": "기후동행카드를 '서울기후동행패스'로 업그레이드해 교통복지 확대",
+      "summary": "70세 이상의 K패스가 적용되지 않는 월 15회 미만 이용자에 교통비 100%를 지원하고, GTX-A·신분당선 서울구간에 기후동행패스를 적용한다.",
+      "category": "교통",
+      "keywords": [
+        "서울기후동행패스",
+        "기후동행카드",
+        "K패스",
+        "GTX-A",
+        "신분당선"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 교통 대전환 서울 — 서울기후동행패스",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-08-27)가 모두의카드(기후동행패스) 9월 1일 출시와 청년할인 연령 기준 만 19~39세 확대을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "기후동행패스 9.1 본격 출시…신규카드 무상 교환 현장 이벤트",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=464712",
+          "published_at": "2026-08-27",
+          "locator": "서울특별시 보도자료(2026-08-27) 교통정책과",
+          "note": "9월 1일 기후동행패스 출시, 청년할인 연령 만 39세까지 확대",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p010",
+      "seq": 10,
+      "title": "이동은 언제 어디서나 편리하게",
+      "summary": "지하철역 10분내 환승 완성, 따릉이 성능 개선, 급경사 고지대 엘리베이터·모노레일 설치, 친환경 저상버스 100% 확대, 남산 곤돌라 설치를 추진한다.",
+      "category": "교통",
+      "keywords": [
+        "따릉이",
+        "저상버스",
+        "남산 곤돌라",
+        "모노레일"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.7 교통 대전환 서울 — 이동은 언제 어디서나 편리하게",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p011",
+      "seq": 11,
+      "title": "5대 권역별 차세대 문화거점 건립",
+      "summary": "(동북권) 창동 K-엔터타운(서울아레나)·DDP K-컬처타운, (서북권) 트윈링·문화비축기지 콘텐츠재편, (동남권) 보이는 수장고, (서남권) 제2세종문화회관, (도심권) 송현문화공원+이건희 기증관·돈의문 복원을 건립·추진한다.",
+      "category": "문화",
+      "keywords": [
+        "서울아레나",
+        "트윈링",
+        "문화비축기지",
+        "보이는 수장고",
+        "제2세종문화회관",
+        "송현문화공원",
+        "이건희 기증관",
+        "돈의문"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 문화·예술 접근성 강화 및 관광 인프라 확대 — 5대 권역별 차세대 문화거점",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-10-23)가 서울아레나 공정률 81%와 내년 6월 개관 준비을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "오세훈 시장, 공정률 81% 서울아레나 현장점검…내년 6월 개관 준비 박차",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=468729",
+          "published_at": "2026-10-23",
+          "locator": "서울특별시 보도자료(2026-10-23) K컬처전략과",
+          "note": "보도자료 제목에 공정률 81%, 내년 6월 개관 준비",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p012",
+      "seq": 12,
+      "title": "K-컬쳐와 일상의 문화가 숨쉬는 글로벌 문화도시 조성",
+      "summary": "우리 동네에서 실시간 생중계되는 K팝 공연 '커넥티드 라이브'를 확대하고, 시민일상으로 찾아가는 문화 공연과 '서울시예술단 고품격 공연'을 확대한다.",
+      "category": "문화",
+      "keywords": [
+        "커넥티드 라이브",
+        "서울시예술단"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 문화·예술 접근성 강화 및 관광 인프라 확대 — 글로벌 문화도시",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p013",
+      "seq": 13,
+      "title": "24/7 잠들지 않는 매력도시 서울",
+      "summary": "'4계절 축제도시 서울', 24시간 '서울 나이트 투어 패키지' 운영, '서울 야간경제 상생특구' 지정, '서울형 라이프스타일' 체험 도시, '예술관광 성지' 서울을 추진한다.",
+      "category": "문화",
+      "keywords": [
+        "4계절 축제도시 서울",
+        "서울 나이트 투어 패키지",
+        "서울 야간경제 상생특구",
+        "예술관광 성지"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 문화·예술 접근성 강화 및 관광 인프라 확대 — 24/7 매력도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-07-23)가 '야간경제 1호 프로젝트'로 8월 한 달간 여의도·뚝섬 한강공원 야영장 '한강 밤핑' 운영을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "한강이 24시간 체류형 공간으로… 서울시, '야간경제 1호 프로젝트' 가동",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=462308",
+          "published_at": "2026-07-23",
+          "locator": "서울특별시 보도자료(2026-07-23) 미래한강본부",
+          "note": "8월 여의도·뚝섬 한강공원 야영장 운영, 24시간 체류형 한강 모델",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p014",
+      "seq": 14,
+      "title": "강철체력 활력도시 서울",
+      "summary": "손목닥터 9988을 건강관리 슈퍼앱으로 진화시키고, 비만진단 시민에 5만원 체육시설 이용상품권을 지급하며, 생활권 중심 '서울체력장'과 시니어를 위한 운동 여가 공간·파크골프장을 확대한다.",
+      "category": "복지",
+      "keywords": [
+        "손목닥터 9988",
+        "서울체력장",
+        "파크골프장"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 9988 건강도시 서울 — 강철체력 활력도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-08-24)가 손목닥터9988 연계 당뇨 예방 밀착관리 서비스 시작과 9월 9일 신청 접수을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "혈당스파이크 방지… 손목닥터9988 당뇨 예방 밀착관리 서비스 시작",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=464475",
+          "published_at": "2026-08-24",
+          "locator": "서울특별시 보도자료(2026-08-24) 스마트건강과",
+          "note": "연속혈당측정기 할인과 손목닥터9988 연계, 시민 1,000명 대상 9월 9일부터 신청",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p015",
+      "seq": 15,
+      "title": "마음체력 회복도시 서울",
+      "summary": "심리상담 바우처를 전 시민에 지급하고, '잇다플레이스'·'마음편의점' 확대, '외로움 안녕 120', 어르신 치매 정밀 관리, 어르신 관계회복 프로그램 전 자치구 확대, 위기중장년 집중케어, 고립·은둔청년 지원 종합 대책을 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "심리상담 바우처",
+        "잇다플레이스",
+        "마음편의점",
+        "외로움 안녕 120"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 9988 건강도시 서울 — 마음체력 회복도시",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-09-23)가 '서울잇다플레이스' 9월 23일 개관과 청년마음편의점·외로움안녕120 상담실 설치을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "외로움·고립예방부터 관계회복까지… '서울잇다플레이스' 23일 문 연다",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=467018",
+          "published_at": "2026-09-23",
+          "locator": "서울특별시 보도자료(2026-09-23) 고독대응과",
+          "note": "9월 23일 개관, 청년마음편의점·외로움안녕120 상담실·치유공간",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p016",
+      "seq": 16,
+      "title": "약자와의 동행 시즌",
+      "summary": "디딤돌소득 2.0으로 돌봄취약계층에 소득보전·자산형성 기회를 제공하고, 서울런 대상을 초중고 소득하위 70%로 확대하며, 40~55세를 위한 서울형 연금(IRP) 도입과 간병+양육 이중돌봄 가구 종합 지원을 한다.",
+      "category": "복지",
+      "keywords": [
+        "디딤돌소득 2.0",
+        "서울런",
+        "서울형 연금(IRP)",
+        "이중돌봄"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 함께 성장하는 서울 — 약자와의 동행",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-07-02)가 서울런 지원 대상을 중위소득 60% 이하에서 80% 이하로 넓힌 7월 20일 모집과 조례 개정으로 3자녀 이상 가구 지원을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서울런, 20일부터 대상 확대 모집…더 많은 청소년에 더 넓은 배움으로 국민평가도 '우수'",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=460828",
+          "published_at": "2026-07-02",
+          "locator": "서울특별시 보도자료(2026-07-02) 교육지원정책과",
+          "note": "중위소득 80% 이하로 완화, 조례 개정으로 다자녀가구 첫 지원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p017",
+      "seq": 17,
+      "title": "민생경제 힘보탬",
+      "summary": "영세자영업자·소상공인 생애주기별(창업-운영-위기-재도전) 맞춤 지원을 강화하고, 소상공인 금융지원을 3조원으로 확대하며, 취약노동자 입원생활비 및 맞춤형 검진지원을 확대한다.",
+      "category": "경제",
+      "keywords": [
+        "소상공인 금융지원",
+        "입원생활비"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 함께 성장하는 서울 — 민생경제 힘보탬",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-10-05)가 서울신용보증재단의 달빛야장 소상공인 대상 687.5억 원 규모 특별보증 신규 공급을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "\"밤에도 북적이는 골목상권 만든다\" 달빛야장 소상공인에 687.5억 원 공급",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=467581",
+          "published_at": "2026-10-05",
+          "locator": "서울특별시 보도자료(2026-10-05) 서울신용보증재단",
+          "note": "하나은행·네이버페이·네이버 출연 55억 원 기반 특별보증 687.5억 원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p018",
+      "seq": 18,
+      "title": "결혼-탄생-육아 지원",
+      "summary": "'더아름다운 결혼식' 확대·다양화, '손주돌봄수당' 소득기준·아이연령 완화, 초등학생 맞벌이가정 방학 중 점심캠프 운영, 지역아동센터+키움플러스+키즈카페 230개소 확충, 초1맘 돌봄 및 교대맘 심야아이 돌봄 강화를 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "더아름다운 결혼식",
+        "손주돌봄수당",
+        "점심캠프",
+        "키움플러스",
+        "키즈카페"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 함께 성장하는 서울 — 결혼-탄생-육아 지원",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-11-08)가 「더 아름다운 결혼식」 예비부부 결혼반지 지원과 공원·한옥 등 67곳 개방·예식비 100만 원 지원을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서울시, 오르시아와 예물 부담 덜어준다…「더 아름다운 결혼식」 예비부부에 결혼반지 지원",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=469822",
+          "published_at": "2026-11-08",
+          "locator": "서울특별시 보도자료(2026-11-08) 가족담당관",
+          "note": "예비부부 10쌍 결혼반지, 예식공간 67곳·예식비 100만 원 지원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p019",
+      "seq": 19,
+      "title": "경제산업으로 연 52만 일자리 창출, 관광산업으로 '30년까지 연 46만 개 고용유발",
+      "summary": "첨단산업·창조산업·기업 혁신 성장으로 연 15만 일자리, 스마트 고용서비스로 '내 일' 연 11만 개, 약자동행 공공일자리 연 26만 개를 공급하고, 서울 관광 미래비전 3377(외래관광객 3천만명, 1인당 지출액 3백만원, 체류일수 7일, 재방문율 70%)로 연 46만개 고용유발을 기대한다.",
+      "category": "경제",
+      "keywords": [
+        "약자동행 공공일자리",
+        "서울 관광 미래비전 3377"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.8 넥스트이코노미 서울 — 연 52만 일자리 창출",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p020",
+      "seq": 20,
+      "title": "체력인증센터 31개센터 설치",
+      "summary": "체력인증센터 31개센터를 설치한다.",
+      "category": "복지",
+      "keywords": [
+        "체력인증센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➊",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p021",
+      "seq": 21,
+      "title": "중장년취업사관학교 1자치구 1개 설치",
+      "summary": "중장년취업사관학교를 자치구마다 1개씩 설치한다.",
+      "category": "경제",
+      "keywords": [
+        "중장년취업사관학교"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➋",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p022",
+      "seq": 22,
+      "title": "어르신 여가쉼터인 활력충전소 120개 설치",
+      "summary": "어르신 여가쉼터인 활력충전소 120개를 설치한다.",
+      "category": "복지",
+      "keywords": [
+        "활력충전소"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➌",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p023",
+      "seq": 23,
+      "title": "325개 모든 역세권 고밀복합개발로 생활거점으로 재탄생",
+      "summary": "325개 모든 역세권을 고밀복합개발해 생활거점으로 재탄생시킨다.",
+      "category": "도시",
+      "keywords": [
+        "역세권",
+        "고밀복합개발"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➍",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p024",
+      "seq": 24,
+      "title": "서울형 키즈카페 현재 200개소 → 404개소로 확대 추진",
+      "summary": "서울형 키즈카페를 현재 200개소에서 404개소로 확대 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "서울형 키즈카페"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➎",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p025",
+      "seq": 25,
+      "title": "펀스테이션 모든 자치구에 1개씩 25개 설치",
+      "summary": "펀스테이션을 모든 자치구에 1개씩 25개 설치한다.",
+      "category": "문화",
+      "keywords": [
+        "펀스테이션"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➏",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-10-30)가 9호선 신목동역에 9번째 펀스테이션 개장을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "안양천 달리고, 지하철역서 파크골프… 신목동역에 9번째 '펀스테이션' 개장",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=469180",
+          "published_at": "2026-10-30",
+          "locator": "서울특별시 보도자료(2026-10-30) 도시활력담당관",
+          "note": "10월 30일 신목동역 9번째 펀스테이션 개장",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p026",
+      "seq": 26,
+      "title": "마음편의점 전 자치구 1개소 이상 설치",
+      "summary": "마음편의점을 전 자치구에 1개소 이상 설치한다.",
+      "category": "복지",
+      "keywords": [
+        "마음편의점"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➐",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "서울시 보도자료(2026-09-23)가 서울잇다플레이스 안 청년마음편의점 설치와 9월 23일 개관을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "외로움·고립예방부터 관계회복까지… '서울잇다플레이스' 23일 문 연다",
+          "url": "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&nttNo=467018",
+          "published_at": "2026-09-23",
+          "locator": "서울특별시 보도자료(2026-09-23) 고독대응과",
+          "note": "개관 공간에 청년마음편의점 포함",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "seoul-mayor-2026-p027",
+      "seq": 27,
+      "title": "지역아동센터 모든 행정동에 설치",
+      "summary": "지역아동센터를 모든 행정동에 설치한다.",
+      "category": "복지",
+      "keywords": [
+        "지역아동센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➑",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "seoul-mayor-2026-p028",
+      "seq": 28,
+      "title": "고지대 이동약자를 위한 경사형 엘리베이터·모노레일 설치",
+      "summary": "고지대 이동약자를 위한 경사형 엘리베이터·모노레일을 설치한다.",
+      "category": "교통",
+      "keywords": [
+        "경사형 엘리베이터",
+        "모노레일"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/1100/003_100162984_20260526_2.pdf",
+      "source_locator": "p.10 삶의질 특별시를 완성하는 공통 공약 ➒",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "서울시 보도자료(2026-07-01~2026-11-08 발표분)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    }
+  ]
+}

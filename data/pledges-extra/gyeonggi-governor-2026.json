@@ -1,0 +1,738 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "gyeonggi-governor-2026",
+    "region_name": "경기도",
+    "office": "도지사",
+    "person_name": "추미애",
+    "election_date": "2026-06-03",
+    "term_start": "2026-07-01",
+    "term_end": "2030-06-30",
+    "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+    "source_kind": "nec",
+    "is_sample": false
+  },
+  "sources": [
+    {
+      "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "title": "제9회 전국동시지방선거 경기도지사선거 당선인 선거공보",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": "9422ed80fcdc7d855e8df0eae1e66d1c0ee99f9107a28259f52253b7471ab25b"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "gyeonggi-governor-2026-p001",
+      "seq": 1,
+      "title": "GTX 지체 없는 개통 추진",
+      "summary": "선거공보 ‘수도권 30분 출근 대전환’ 분야 공약: GTX 지체 없는 개통 추진",
+      "category": "교통",
+      "keywords": [
+        "GTX"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 수도권 30분 출근 대전환",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-09-15)가 GTX-C 노선(덕정~수원, 86.6㎞, 총사업비 4조 9,272억 원)이 9월 15일 실착공에 들어갔다는 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "추미애 “수도권 30분 교통 혁신 이뤄지도록 적기 개통 협력하겠다” 경기도민 숙원 ‘GTX-C노선’ 실착공",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71494",
+          "published_at": "2026-09-15",
+          "locator": "경기도 보도자료(2026-09-15) 게시번호 71494",
+          "note": "GTX-C 노선 실착공, 도는 실무협의회 운영·행정 지원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "gyeonggi-governor-2026-p002",
+      "seq": 2,
+      "title": "수도권통합패스(ONE 패스)",
+      "summary": "선거공보 ‘수도권 30분 출근 대전환’ 분야 공약: 수도권통합패스(ONE 패스)",
+      "category": "교통",
+      "keywords": [
+        "수도권통합패스",
+        "ONE 패스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 수도권 30분 출근 대전환",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p003",
+      "seq": 3,
+      "title": "어린이·청소년 ‘든든 교통’",
+      "summary": "선거공보 ‘수도권 30분 출근 대전환’ 분야 공약: 어린이·청소년 ‘든든 교통’",
+      "category": "교통",
+      "keywords": [
+        "든든 교통"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 수도권 30분 출근 대전환",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p004",
+      "seq": 4,
+      "title": "출퇴근 ‘경기 편하G 버스’ 확대",
+      "summary": "선거공보 ‘수도권 30분 출근 대전환’ 분야 공약: 출퇴근 ‘경기 편하G 버스’ 확대",
+      "category": "교통",
+      "keywords": [
+        "경기 편하G 버스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 수도권 30분 출근 대전환",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-10-07)가 경기 편하G버스 신규 5개 노선(평택·양주·화성·의왕)을 10월 8일부터 운행한다는 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "경기도, 출퇴근 좌석예약 ‘편하G버스’ 확대…5개 노선 8일 운행",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71655",
+          "published_at": "2026-10-07",
+          "locator": "경기도 보도자료(2026-10-07) 게시번호 71655",
+          "note": "신규 5개 노선 10월 8일 운행, 경기 프리미엄버스 명칭을 편하G버스로 변경",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "gyeonggi-governor-2026-p005",
+      "seq": 5,
+      "title": "청년·신혼부부 역세권 주거 확대",
+      "summary": "선거공보 ‘교통생활권 주거’ 분야 공약: 청년·신혼부부 역세권 주거 확대",
+      "category": "도시",
+      "keywords": [
+        "역세권 주거"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 교통생활권 주거",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p006",
+      "seq": 6,
+      "title": "공공주택 55만호 공급",
+      "summary": "선거공보 ‘교통생활권 주거’ 분야 공약: 공공주택 55만호 공급",
+      "category": "도시",
+      "keywords": [
+        "공공주택"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 교통생활권 주거",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p007",
+      "seq": 7,
+      "title": "역세권 중심 15분 생활권 구축",
+      "summary": "선거공보 ‘교통생활권 주거’ 분야 공약: 역세권 중심 15분 생활권 구축",
+      "category": "도시",
+      "keywords": [
+        "15분 생활권"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 교통생활권 주거",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p008",
+      "seq": 8,
+      "title": "1기 신도시 재건축 신속 추진",
+      "summary": "선거공보 ‘교통생활권 주거’ 분야 공약: 1기 신도시 재건축 신속 추진",
+      "category": "도시",
+      "keywords": [
+        "1기 신도시",
+        "재건축"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 교통생활권 주거",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p009",
+      "seq": 9,
+      "title": "정비사업 공공지원 강화",
+      "summary": "선거공보 ‘교통생활권 주거’ 분야 공약: 정비사업 공공지원 강화",
+      "category": "도시",
+      "keywords": [
+        "정비사업"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 교통생활권 주거",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p010",
+      "seq": 10,
+      "title": "공공주도 취약지역 정비사업",
+      "summary": "선거공보 ‘교통생활권 주거’ 분야 공약: 공공주도 취약지역 정비사업",
+      "category": "도시",
+      "keywords": [
+        "취약지역 정비사업"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 교통생활권 주거",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-09-29)가 2027년 도시취약지역 생활여건 개조사업 공모에 양주시 덕계동·화성시 안녕동이 선정돼 5년간 국비 42억 원을 받는다는 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "경기도, 양주·화성 도시취약지역 개선에 국비 42억 확보",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71580",
+          "published_at": "2026-09-29",
+          "locator": "경기도 보도자료(2026-09-29) 게시번호 71580",
+          "note": "지방시대위원회 공모 2곳 선정, 5년간 국비 42억 원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "gyeonggi-governor-2026-p011",
+      "seq": 11,
+      "title": "K-반도체 전주기 생태계 완성 초격차 유지",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: K-반도체 전주기 생태계 완성 초격차 유지",
+      "category": "경제",
+      "keywords": [
+        "K-반도체"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p012",
+      "seq": 12,
+      "title": "팹리스 200개 육성",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: 팹리스 200개 육성",
+      "category": "경제",
+      "keywords": [
+        "팹리스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p013",
+      "seq": 13,
+      "title": "전략산업 육성을 위한 ‘경기미래투자공사’(가칭) 설립",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: 전략산업 육성을 위한 ‘경기미래투자공사’(가칭) 설립",
+      "category": "경제",
+      "keywords": [
+        "경기미래투자공사"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p014",
+      "seq": 14,
+      "title": "반도체기술원 및 반도체대학원 유치·설립 추진",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: 반도체기술원 및 반도체대학원 유치·설립 추진",
+      "category": "경제",
+      "keywords": [
+        "반도체기술원",
+        "반도체대학원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p015",
+      "seq": 15,
+      "title": "‘AI 반도체 전략위원회’ 설치",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: ‘AI 반도체 전략위원회’ 설치",
+      "category": "경제",
+      "keywords": [
+        "AI 반도체 전략위원회"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p016",
+      "seq": 16,
+      "title": "수요 맞춤형 인재 양성 및 취업·창업 지원 확대",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: 수요 맞춤형 인재 양성 및 취업·창업 지원 확대",
+      "category": "경제",
+      "keywords": [
+        "인재 양성",
+        "취업·창업 지원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p017",
+      "seq": 17,
+      "title": "미래농업 투자 확대 및 농업인 생활안정 강화",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: 미래농업 투자 확대 및 농업인 생활안정 강화",
+      "category": "경제",
+      "keywords": [
+        "미래농업",
+        "농업인 생활안정"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p018",
+      "seq": 18,
+      "title": "에너지 대전환(RE100 산단, 햇빛소득마을 확대)",
+      "summary": "선거공보 ‘대한민국 경제 1번지’ 분야 공약: 에너지 대전환(RE100 산단, 햇빛소득마을 확대)",
+      "category": "환경",
+      "keywords": [
+        "에너지 대전환",
+        "RE100 산단",
+        "햇빛소득마을"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.7 당당한 경기 대한민국 경제 1번지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p019",
+      "seq": 19,
+      "title": "실효적 ‘경기돌봄기준선’ 마련",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 실효적 ‘경기돌봄기준선’ 마련",
+      "category": "복지",
+      "keywords": [
+        "경기돌봄기준선"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p020",
+      "seq": 20,
+      "title": "복지생활권(G-Care) 구축",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 복지생활권(G-Care) 구축",
+      "category": "복지",
+      "keywords": [
+        "복지생활권",
+        "G-Care"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p021",
+      "seq": 21,
+      "title": "임산부 원스톱 서비스 확대 구축",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 임산부 원스톱 서비스 확대 구축",
+      "category": "복지",
+      "keywords": [
+        "임산부 원스톱 서비스"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p022",
+      "seq": 22,
+      "title": "공공산후조리원 및 공공요양원 확대",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 공공산후조리원 및 공공요양원 확대",
+      "category": "복지",
+      "keywords": [
+        "공공산후조리원",
+        "공공요양원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p023",
+      "seq": 23,
+      "title": "중입자 치료센터 도입 추진",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 중입자 치료센터 도입 추진",
+      "category": "복지",
+      "keywords": [
+        "중입자 치료센터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p024",
+      "seq": 24,
+      "title": "무장애(배리어프리) 관광지 확대",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 무장애(배리어프리) 관광지 확대",
+      "category": "문화",
+      "keywords": [
+        "무장애 관광지",
+        "배리어프리"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p025",
+      "seq": 25,
+      "title": "문화격차 해소를 위한 문화바우처 확대",
+      "summary": "선거공보 ‘누구든 안심·복지’ 분야 공약: 문화격차 해소를 위한 문화바우처 확대",
+      "category": "문화",
+      "keywords": [
+        "문화바우처"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 누구든 안심·복지",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p026",
+      "seq": 26,
+      "title": "경기도 노동감독관 신속 도입",
+      "summary": "선거공보 ‘안심생활·안전일터’ 분야 공약: 경기도 노동감독관 신속 도입",
+      "category": "안전",
+      "keywords": [
+        "노동감독관"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 안심생활·안전일터",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-02)가 지방노동감독관 170명 충원 절차에 착수해 7월 1일 7급 공채 채용 절차를 시작했다는 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "경기도, 민선9기 1호 제안 ‘지방노동감독관’ 170명 충원 절차 착수… 신속 도입으로 2027년 상반기 현장감독 추진",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=70789",
+          "published_at": "2026-07-02",
+          "locator": "경기도 보도자료(2026-07-02) 게시번호 70789",
+          "note": "7월 1일 7급 공채 시작, 2027년 상반기 현장감독 계획",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "gyeonggi-governor-2026-p027",
+      "seq": 27,
+      "title": "체불 방지를 위한 임금 직접지급제 확대",
+      "summary": "선거공보 ‘안심생활·안전일터’ 분야 공약: 체불 방지를 위한 임금 직접지급제 확대",
+      "category": "경제",
+      "keywords": [
+        "임금 직접지급제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 안심생활·안전일터",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p028",
+      "seq": 28,
+      "title": "원·하청 공동 산업안전보건위원회 구성 추진",
+      "summary": "선거공보 ‘안심생활·안전일터’ 분야 공약: 원·하청 공동 산업안전보건위원회 구성 추진",
+      "category": "안전",
+      "keywords": [
+        "산업안전보건위원회"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 안심생활·안전일터",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p029",
+      "seq": 29,
+      "title": "AI 기반 응급의료 체계 구축",
+      "summary": "선거공보 ‘안심생활·안전일터’ 분야 공약: AI 기반 응급의료 체계 구축",
+      "category": "안전",
+      "keywords": [
+        "AI 응급의료"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 안심생활·안전일터",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p030",
+      "seq": 30,
+      "title": "AI 생활서비스(안심귀가·돌봄·교통관리)",
+      "summary": "선거공보 ‘안심생활·안전일터’ 분야 공약: AI 생활서비스(안심귀가·돌봄·교통관리)",
+      "category": "안전",
+      "keywords": [
+        "AI 생활서비스",
+        "안심귀가"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 안심생활·안전일터",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p031",
+      "seq": 31,
+      "title": "경기도형 AI 디지털 성범죄물 삭제 지원 확대",
+      "summary": "선거공보 ‘안심생활·안전일터’ 분야 공약: 경기도형 AI 디지털 성범죄물 삭제 지원 확대",
+      "category": "안전",
+      "keywords": [
+        "디지털 성범죄물 삭제 지원"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 안심생활·안전일터",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p032",
+      "seq": 32,
+      "title": "평화지대 발전계획 추진",
+      "summary": "선거공보 ‘함께 성장하는 경기’ 분야 공약: “특별한 희생에는 특별한 보상을!”: 평화지대 발전계획 추진",
+      "category": "도시",
+      "keywords": [
+        "평화지대 발전계획"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 함께 성장하는 경기",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-10-01)가 파주시 일원 약 6.9㎢를 평화경제특구로 지정해 달라는 개발계획을 9월 30일 통일부·국토교통부에 제출했다는 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "경기도, 평화경제특구 후보지로 파주시 1차 신청",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71603",
+          "published_at": "2026-10-01",
+          "locator": "경기도 보도자료(2026-10-01) 게시번호 71603",
+          "note": "파주 평화경제특구 지정 신청서·개발계획 제출, 연천·포천은 2차 신청 계획",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "gyeonggi-governor-2026-p033",
+      "seq": 33,
+      "title": "항공우주 MRO 분야 첨단산업 육성",
+      "summary": "선거공보 ‘함께 성장하는 경기’ 분야 공약: 항공우주 MRO 분야 첨단산업 육성",
+      "category": "경제",
+      "keywords": [
+        "항공우주 MRO"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 함께 성장하는 경기",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p034",
+      "seq": 34,
+      "title": "한국예술종합학교 유치 및 예술·교육 융합 클러스터 조성 추진",
+      "summary": "선거공보 ‘함께 성장하는 경기’ 분야 공약: 한국예술종합학교 유치 및 예술·교육 융합 클러스터 조성 추진",
+      "category": "교육",
+      "keywords": [
+        "한국예술종합학교",
+        "예술·교육 융합 클러스터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 함께 성장하는 경기",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p035",
+      "seq": 35,
+      "title": "수도권행정협의회 협의체 활성화",
+      "summary": "선거공보 ‘함께 성장하는 경기’ 분야 공약: 수도권행정협의회 협의체 활성화",
+      "category": "행정",
+      "keywords": [
+        "수도권행정협의회"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 함께 성장하는 경기",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p036",
+      "seq": 36,
+      "title": "경기도 8종 중복 규제 합리화 추진",
+      "summary": "선거공보 ‘혁신행정’ 분야 공약: 경기도 8종 중복 규제 합리화 추진",
+      "category": "행정",
+      "keywords": [
+        "중복 규제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 혁신행정",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p037",
+      "seq": 37,
+      "title": "도지사 직속 AI 수석 신설",
+      "summary": "선거공보 ‘혁신행정’ 분야 공약: 도지사 직속 AI 수석 신설",
+      "category": "행정",
+      "keywords": [
+        "AI 수석"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 혁신행정",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p038",
+      "seq": 38,
+      "title": "도민과 함께하는 타운홀 미팅 정례화",
+      "summary": "선거공보 ‘혁신행정’ 분야 공약: 도민과 함께하는 타운홀 미팅 정례화",
+      "category": "행정",
+      "keywords": [
+        "타운홀 미팅"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 혁신행정",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p039",
+      "seq": 39,
+      "title": "경기도 AI 통합 민원 플랫폼 구축",
+      "summary": "선거공보 ‘혁신행정’ 분야 공약: 경기도 AI 통합 민원 플랫폼 구축",
+      "category": "행정",
+      "keywords": [
+        "AI 통합 민원 플랫폼"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 혁신행정",
+      "status": "not_started",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-01~2026-11-08, 공약 낱말 제목 검색)에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "gyeonggi-governor-2026-p040",
+      "seq": 40,
+      "title": "경기 공공데이터 공개 및 이용 환경 개선",
+      "summary": "선거공보 ‘혁신행정’ 분야 공약: 경기 공공데이터 공개 및 이용 환경 개선",
+      "category": "행정",
+      "keywords": [
+        "공공데이터"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_doc.pdf&requestedFullPath=20260603/PDF/PBINFO_PUB/4100/003_100163148_20260526_3.pdf",
+      "source_locator": "p.8 든든한 추미애 혁신행정",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "경기도 보도자료(2026-07-20)가 경기데이터드림 포털에서 공공데이터·민간데이터 연계 온라인 데이터 분석센터 서비스를 7월 20일 정식 시작했다는 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "경기도, 고부가가치 민간 데이터와 연계해 공공데이터 가치 획기적으로 높인다",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=70953",
+          "published_at": "2026-07-20",
+          "locator": "경기도 보도자료(2026-07-20) 게시번호 70953",
+          "note": "온라인 분석센터 정식 운영, 민간데이터 104종 연계 분석",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    }
+  ]
+}

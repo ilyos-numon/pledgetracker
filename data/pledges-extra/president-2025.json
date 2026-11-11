@@ -1,0 +1,1077 @@
+{
+  "schema_version": 1,
+  "official": {
+    "id": "president-2025",
+    "region_name": "대한민국",
+    "office": "대통령",
+    "person_name": "이재명",
+    "election_date": "2025-06-03",
+    "term_start": "2025-06-04",
+    "term_end": "2030-06-03",
+    "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+    "source_kind": "nec",
+    "is_sample": false
+  },
+  "sources": [
+    {
+      "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "title": "제21대 대통령선거 당선인 선거공약서",
+      "retrieved_at": "2026-11-09",
+      "format": "pdf",
+      "sha256": "46f8336792801b7582890ec550633923bb71f358a06e8712e1e36f1a09e68dfe"
+    }
+  ],
+  "pledges": [
+    {
+      "id": "president-2025-p001",
+      "seq": 1,
+      "title": "AI 세계 3대 강국 도약",
+      "summary": "AI 예산을 선진국 수준으로 증액해 AI 투자 100조 원 시대를 열고, 고성능 GPU 5만 개 확보와 국가 AI데이터 집적 클러스터 조성, 누구나 사용가능한 '모두의 AI' 프로젝트, AI 단과대학 신설·AI 병역특례 확대 등 AI 인재 양성을 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "AI 투자 100조 원",
+        "고성능 GPU 5만 개",
+        "국가 AI데이터 집적 클러스터",
+        "모두의 AI",
+        "AI 단과대학",
+        "AI 병역특례"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "과학기술정보통신부 보도자료(2026-08-03)가 국가 인공지능 컴퓨팅센터 착공식 개최와 2028년까지 첨단 인공지능 반도체 1.5만 장 규모 구축 목표를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "인공지능 고속도로 핵심 인프라, '국가 인공지능 컴퓨팅센터' 구축에 첫 삽",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773197",
+          "published_at": "2026-08-03",
+          "locator": "대한민국 정책브리핑 보도자료(2026-08-03, 과학기술정보통신부)",
+          "note": "2028년까지 첨단 인공지능 반도체 1.5만장 규모 국가 인공지능 컴퓨팅센터 구축 목표, 8.3. 해남 착공식",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p002",
+      "seq": 2,
+      "title": "경제성장의 대동맥, 에너지고속도로 구축",
+      "summary": "2030년까지 서해안, 2040년까지 한반도 에너지고속도로 건설을 추진하고, RE100 산업단지 조성, 에너지저장장치(ESS) 보급 확대, 재생에너지 지능형 전력망 구축, 햇빛·바람 연금 확대로 소멸위기지역 경제 활성화를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "에너지고속도로",
+        "서해안",
+        "RE100 산업단지",
+        "에너지저장장치(ESS)",
+        "지능형 전력망",
+        "햇빛·바람 연금"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ②",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "산업통상자원부 보도자료(2025-09-24)가 서해안 에너지고속도로 적기 준공을 위한 HVDC 변압기 개발 참여기업 최종 선정을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서해안 에너지고속도로 적기 준공을 위한 HVDC 변압기 개발 참여기업 최종 선정",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156754902",
+          "published_at": "2025-09-24",
+          "locator": "대한민국 정책브리핑 보도자료(2025-09-24, 산업통상자원부)",
+          "note": "서해안 에너지고속도로 HVDC 변압기 개발 참여기업 최종 선정, '26년 정부안 120억원",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p003",
+      "seq": 3,
+      "title": "주가지수 5,000시대 개막, ‘코리아 프리미엄’ 실현",
+      "summary": "중장기 산업·경제성장 전략 수립과 글로벌 선진국 지수(MSCI) 편입을 추진하고, 주가조작 '원스트라이크 아웃제'를 도입하며, 주주충실의무 도입과 집중투표제로 소액주주 보호를 강화한다.",
+      "category": "경제",
+      "keywords": [
+        "코리아 프리미엄",
+        "MSCI",
+        "원스트라이크 아웃제",
+        "주주충실의무",
+        "집중투표제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ③",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "법제처 보도자료(2025-07-15)가 이사의 충실의무 대상을 주주로 확대하는 상법 개정 법률 공포안의 국무회의 상정을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "이사의 충실의무 대상을 주주로 확대하는 상법 개정 법률안 등 16개 법률 공포안 국무회의 상정",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156698325",
+          "published_at": "2025-07-15",
+          "locator": "대한민국 정책브리핑 보도자료(2025-07-15, 법제처)",
+          "note": "이사의 충실의무 대상을 주주로 확대하는 상법 개정 법률안 등 16개 법률 공포안 국무회의 상정",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p004",
+      "seq": 4,
+      "title": "ABCDEF 글로벌 첨단기업 육성",
+      "summary": "AI(인공지능)·바이오·콘텐츠·문화·방위산업·우주항공·에너지·제조업 분야 글로벌 첨단기업을 육성하고 첨단산업 국내 생산 지원을 확대한다.",
+      "category": "경제",
+      "keywords": [
+        "ABCDEF",
+        "바이오",
+        "방위산업",
+        "우주항공",
+        "제조업"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "산업통상부 참고자료(2026-09-30)가 방산(경남) 등 첨단 특화단지를 지역 신규 거점으로 육성한다고 적고 있음. 공약 범위의 기업 육성 착수 근거는 제목·요약에서 확인하지 못함",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "(참고자료)로봇(대구&middot;경북), 방산(경남), 이차전지(전남) 첨단 특화단지를 지역 첨단산업의 신규 거점으로 육성",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783767",
+          "published_at": "2026-09-30",
+          "locator": "대한민국 정책브리핑 보도자료(2026-09-30, 산업통상부)",
+          "note": "로봇(대구·경북), 방산(경남), 이차전지(전남) 첨단 특화단지를 지역 첨단산업의 신규 거점으로 육성",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p005",
+      "seq": 5,
+      "title": "과학기술 국가연구개발(R&D) 예산 확대 및 과학기술 강국 실현",
+      "summary": "과학기술 국가연구개발(R&D) 예산을 확대해 과학기술 강국을 실현한다.",
+      "category": "경제",
+      "keywords": [
+        "국가연구개발(R&D)"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ⑤",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "과학기술정보통신부 보도자료(2026-09-01)가 2027년도 정부 R&D 예산안 39.5조 원 편성과 증가율 11.2%를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대체불가 대한민국 실현을 위한 담대한 R&D 투자,2027년도 정부R&D 예산안 39.5조원으로 편성",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785957",
+          "published_at": "2026-09-01",
+          "locator": "대한민국 정책브리핑 보도자료(2026-09-01, 과학기술정보통신부)",
+          "note": "2027년도 정부R&D 예산안 39.5조원, 증가율 11.2%",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p006",
+      "seq": 6,
+      "title": "벤처투자시장 육성으로 벤처 강국 실현",
+      "summary": "벤처투자시장을 육성해 벤처 강국을 실현한다.",
+      "category": "경제",
+      "keywords": [
+        "벤처투자시장"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ⑥",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "중소벤처기업부 보도자료(2026-08-13)가 1조 원 규모 LP성장펀드 출범을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "차세대 벤처투자 플랫폼, 1조 원 규모 \"LP성장펀드\" 출범",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774381",
+          "published_at": "2026-08-13",
+          "locator": "대한민국 정책브리핑 보도자료(2026-08-13, 중소벤처기업부)",
+          "note": "차세대 벤처투자 플랫폼, 1조 원 규모 LP성장펀드 출범",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p007",
+      "seq": 7,
+      "title": "북극항로 시대 국가대응체계 구축",
+      "summary": "북극항로 전용선박 개발을 지원하고 동남권 교통 트라이포트 체계를 구축한다.",
+      "category": "교통",
+      "keywords": [
+        "북극항로",
+        "북극항로 전용선박",
+        "동남권",
+        "트라이포트"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.3 경제 강국 ⑦",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "해양수산부 보도자료(2026-10-13)가 북극항로 첫 컨테이너선 시범운항을 마치고 부산으로 돌아온 사실을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대한민국, 북극항로 시대를 열다! 첫 컨테이너선 시범운항을 마치고 부산으로",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784993",
+          "published_at": "2026-10-13",
+          "locator": "대한민국 정책브리핑 보도자료(2026-10-13, 해양수산부)",
+          "note": "북극항로 첫 컨테이너선 시범운항 완료, 10.13. 부산 행사",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p008",
+      "seq": 8,
+      "title": "K-컬처 시장 300조 원 시대 개막",
+      "summary": "국가 예산 중 문화예산 비중을 확대하고, K-컬처 지원 강화로 문화수출 50조 원 달성, K-팝·K-드라마·K-웹툰·K-게임·K-푸드·K-뷰티 등 세계 진출 지원 확대를 추진한다.",
+      "category": "문화",
+      "keywords": [
+        "K-컬처",
+        "문화수출 50조 원",
+        "K-팝",
+        "K-드라마",
+        "K-웹툰",
+        "K-게임",
+        "K-푸드",
+        "K-뷰티"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.5 문화 강국 ①",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p009",
+      "seq": 9,
+      "title": "K-콘텐츠 창작 전 과정에 대한 국가 지원 강화",
+      "summary": "OTT 등 K-컬처 플랫폼을 육성하고, 최첨단 스튜디오 등 K-콘텐츠 공공 제작 인프라 확충, 문화예술 R&D·정책금융·세제혜택 등 인센티브 확대를 추진한다.",
+      "category": "문화",
+      "keywords": [
+        "K-콘텐츠",
+        "OTT",
+        "최첨단 스튜디오",
+        "정책금융"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.5 문화 강국 ②",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "금융위원회 보도자료(2026-08-28)가 국민성장펀드의 K-콘텐츠 지원과 K-콘텐츠펀드 1,500억 원을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "국민성장펀드가 로봇산업의 경쟁력 강화와K-콘텐츠의 글로벌 영토 확장을 지원합니다.",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775847",
+          "published_at": "2026-08-28",
+          "locator": "대한민국 정책브리핑 보도자료(2026-08-28, 금융위원회)",
+          "note": "국민성장펀드 K-콘텐츠 지원, K-콘텐츠펀드(1,500억원)",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p010",
+      "seq": 10,
+      "title": "문화예술인 지원 강화",
+      "summary": "문화예술 인재 양성과 창작 공간·비용 지원을 확대하고, 콘텐츠 불법유통 단속 및 해외불법사이트 단속 국제 공조를 강화한다.",
+      "category": "문화",
+      "keywords": [
+        "문화예술인",
+        "창작 공간",
+        "해외불법사이트"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.5 문화 강국 ③",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p011",
+      "seq": 11,
+      "title": "인문학 지원 확대, 전 국민 인문교육 활성화 추진",
+      "summary": "인문학 지원을 확대하고 전 국민 인문교육 활성화를 추진한다.",
+      "category": "문화",
+      "keywords": [
+        "인문학",
+        "인문교육"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.5 문화 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p012",
+      "seq": 12,
+      "title": "미래를 여는 국익 중심 실용 외교 추진",
+      "summary": "한미동맹 기반의 국익 중심 실용 외교, 경제·통상 위기 극복을 위한 경제외교 역량 강화, 북한 핵문제 해결을 위한 실질적 진전, 공공 외교로 G7+ 국가 실현을 추진한다.",
+      "category": "기타",
+      "keywords": [
+        "한미동맹",
+        "경제외교",
+        "북한 핵문제",
+        "G7+"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.7 외교안보 강국 ①",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p013",
+      "seq": 13,
+      "title": "국민이 신뢰하는 첨단 강군 실현",
+      "summary": "AI·첨단기술 기반 스마트 강군 육성, 북핵·미사일과 비대칭·사이버 위협 대비 역량 강화, 범정부적 지원으로 K-방산 세계 4대 강국(G4) 달성, 군 복무여건 개선 및 장병 인권 보호 강화, 해병대의 '준4군 체제' 개편을 추진한다.",
+      "category": "안전",
+      "keywords": [
+        "스마트 강군",
+        "K-방산",
+        "G4",
+        "해병대",
+        "준4군 체제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.7 외교안보 강국 ②",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p014",
+      "seq": 14,
+      "title": "긴장 완화와 비핵·평화로 공존하는 한반도 추진",
+      "summary": "정치·군사적 긴장 완화로 '코리아 리스크'를 해소하고, 신뢰를 회복하고 문제를 해결하는 실용적 남북관계를 추진한다.",
+      "category": "기타",
+      "keywords": [
+        "비핵·평화",
+        "코리아 리스크",
+        "남북관계"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.7 외교안보 강국 ③",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p015",
+      "seq": 15,
+      "title": "재외국민·재외동포 권익·안전 보호 및 지원 확대",
+      "summary": "재외국민·재외동포의 권익·안전 보호와 지원을 확대하고, 재외국민 우편투표제 도입 추진 등 참정권을 향상한다.",
+      "category": "행정",
+      "keywords": [
+        "재외국민",
+        "재외동포",
+        "우편투표제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.7 외교안보 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p016",
+      "seq": 16,
+      "title": "세종 행정수도 완성 추진",
+      "summary": "국회 세종의사당과 대통령 세종 집무실을 적기에 건립하고 제2차 공공기관 지방이전을 추진한다.",
+      "category": "도시",
+      "keywords": [
+        "세종 행정수도",
+        "국회 세종의사당",
+        "대통령 세종 집무실",
+        "공공기관 지방이전"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.8 균형발전 국가 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "행정중심복합도시건설청 보도자료(2026-07-22)가 대통령 세종집무실 설계 본격 착수를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "대통령 세종집무실 설계 본격 착수... \"대한민국의 멋과 품격을 담는다\"",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771708",
+          "published_at": "2026-07-22",
+          "locator": "대한민국 정책브리핑 보도자료(2026-07-22, 행정중심복합도시건설청)",
+          "note": "대통령 세종집무실 설계 본격 착수",
+          "checked_at": "2026-11-09"
+        },
+        {
+          "kind": "press_release",
+          "title": "세종 중심 국정운영 강화, 2차 중앙행정기관 이전 본격 추진",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784984",
+          "published_at": "2026-10-13",
+          "locator": "대한민국 정책브리핑 보도자료(2026-10-13, 행정안전부)",
+          "note": "수도권 소재 중앙행정기관 등 44개 기관 세종 이전 추진, 2027년 27개 기관 우선 이전",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p017",
+      "seq": 17,
+      "title": "‘5극 3특’ 중심 균형발전 기반 마련",
+      "summary": "5대 초광역권(수도권·중부권·대경권·동남권·호남권) 중심 발전과 3대 특별자치도(제주·강원·전북)의 자치권 및 경쟁력 강화를 위한 특별법 개정을 추진한다.",
+      "category": "도시",
+      "keywords": [
+        "5극 3특",
+        "5대 초광역권",
+        "3대 특별자치도",
+        "제주",
+        "강원",
+        "전북"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.8 균형발전 국가 ②",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "행정안전부 보도자료(2026-05-07)가 5극3특 균형성장 추진 기반인 지방분권균형발전법 개정안의 국회 통과를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "5극3특 균형성장 본격 추진 기반 마련, '지방분권균형발전법' 개정안 국회 통과",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156760298",
+          "published_at": "2026-05-07",
+          "locator": "대한민국 정책브리핑 보도자료(2026-05-07, 행정안전부)",
+          "note": "지방분권균형발전법 개정안 국회 통과, 균형성장영향평가 도입·초광역특별계정 신설",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p018",
+      "seq": 18,
+      "title": "자치분권 강화 및 지역경제 활성화",
+      "summary": "국가자치분권회의 신설, 지방교부세 확대·자체세원 발굴 등 지방재정 확충, 지역대표 전략산업 육성과 지역투자 촉진, 지역화폐 발행 확대 및 상권 활성화, 철도지하화 종합계획 수립과 단계적 시행을 추진한다.",
+      "category": "행정",
+      "keywords": [
+        "국가자치분권회의",
+        "지방교부세",
+        "지역화폐",
+        "철도지하화 종합계획"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.8 균형발전 국가 ③",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "행정안전부 보도자료(2026-08-31)가 지역사랑상품권 5개년 법정 기본계획 최초 수립을 적고 있음. 계획 수립 외 착수 근거는 확인하지 못함",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "지역사랑상품권 5개년 법정 기본계획최초 수립, 지역경제 선순환 이끈다",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776068",
+          "published_at": "2026-08-31",
+          "locator": "대한민국 정책브리핑 보도자료(2026-08-31, 행정안전부)",
+          "note": "지역사랑상품권 5개년 법정 기본계획 최초 수립",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p019",
+      "seq": 19,
+      "title": "민주주의 회복",
+      "summary": "불법계엄 재발방지 대책 마련, 대통령 계엄 권한에 대한 민주적 통제 강화, 국군 위상 재정립, 군 문민통제 강화 및 군 인사 시스템 개선을 추진한다.",
+      "category": "행정",
+      "keywords": [
+        "불법계엄 재발방지",
+        "계엄 권한",
+        "군 문민통제",
+        "군 인사 시스템"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.9 민주주의 강국 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "국방부 보도자료(2026-06-04)가 국회의 견제 기능을 강화하는 계엄법 개정 완료를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "국민주권정부 출범 1년, '국민의 군대'로 거듭나기 위한 국방부의 국정성과",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765639",
+          "published_at": "2026-06-04",
+          "locator": "대한민국 정책브리핑 보도자료(2026-06-04, 국방부)",
+          "note": "국회의 견제 기능을 강화하는 계엄법 개정 완료, 전 장병 헌법가치 수호 교육 정례화",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p020",
+      "seq": 20,
+      "title": "통합과 협치",
+      "summary": "정치보복 관행 타파와 실력 중심 탕평인사로 국민통합을 실현하고, 공직자 부패 방지로 청렴한 공직문화를 조성하며, 주요 공공기관장 등의 임기를 대통령 임기와 일치시킨다.",
+      "category": "행정",
+      "keywords": [
+        "탕평인사",
+        "공직자 부패 방지",
+        "공공기관장 임기"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.9 민주주의 강국 ②",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p021",
+      "seq": 21,
+      "title": "직접민주주의 강화",
+      "summary": "국민 참여 및 직접민주주의 활성화를 통한 책임정치 구현, 국민의 정책 참여 확대를 위한 디지털플랫폼 활성화, 의제별 공론화위원회를 통한 사회적 합의 도출 활성화를 추진한다.",
+      "category": "행정",
+      "keywords": [
+        "직접민주주의",
+        "디지털플랫폼",
+        "공론화위원회"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.9 민주주의 강국 ③",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p022",
+      "seq": 22,
+      "title": "사회적 대타협 추진",
+      "summary": "정파를 초월한 국민통합위원회를 구성해 기능을 실질화하고 경제사회노동위원회의 사회적 합의 기능을 강화한다.",
+      "category": "행정",
+      "keywords": [
+        "국민통합위원회",
+        "경제사회노동위원회"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.9 민주주의 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p023",
+      "seq": 23,
+      "title": "생애주기별 소득보장체계 구축",
+      "summary": "아동수당 지급 대상 단계적 확대, 일하는 모든 취업자로 육아휴직 단계적 확대, 근로장려금과 자녀장려금의 대상자 및 지급액 확대, 월세·주거·통신·학원비 등 직장인 필수 생활비 부담 절감을 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "아동수당",
+        "육아휴직",
+        "근로장려금",
+        "자녀장려금"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.11 복지 강국 ①",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p024",
+      "seq": 24,
+      "title": "온 사회가 다 같이 돌보는 돌봄 기본사회 추진",
+      "summary": "영·유아, 초등생, 간호·간병, 장애인, 어르신 등 돌봄 국가책임제, 온 동네 초등돌봄 체계 구축, 간병비 부담완화와 간호·간병 통합병동 확대, 장애인 맞춤형 지역돌봄체계 구축 및 발달장애인 돌봄 강화를 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "돌봄 국가책임제",
+        "온 동네 초등돌봄",
+        "간호·간병 통합병동",
+        "발달장애인"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.11 복지 강국 ②",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "보건복지부 보도자료(2026-04-23)가 비수도권 상급종합병원 간호·간병통합서비스 제공 병동 확대를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "국민 간병부담 완화 위해 비수도권 상급종합병원 간호&middot;간병통합서비스 제공 병동 확대",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156757552",
+          "published_at": "2026-04-23",
+          "locator": "대한민국 정책브리핑 보도자료(2026-04-23, 보건복지부)",
+          "note": "비수도권 상급종합병원 간호·간병통합서비스 제공 병동 확대",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p025",
+      "seq": 25,
+      "title": "공공·필수·지역 의료 공공성 강화",
+      "summary": "공공의대 설립 등으로 공공의료인력을 확보하고, 사회적 합의를 거쳐 의대 정원 합리적 조정과 국민 참여 의료개혁, 의료취약지역 주치의제 시범사업 후 전 국민 확대를 추진한다.",
+      "category": "복지",
+      "keywords": [
+        "공공의대",
+        "의대 정원",
+        "주치의제"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.11 복지 강국 ③",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "보건복지부 보도자료(2026-11-04)가 의대 신설 지역·대학 선정과 정원 배정을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "의대 신설 지역/대학 선정 및 정원 배정",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787884",
+          "published_at": "2026-11-04",
+          "locator": "대한민국 정책브리핑 보도자료(2026-11-04, 보건복지부)",
+          "note": "의대 신설 지역/대학 선정 및 정원 배정",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p026",
+      "seq": 26,
+      "title": "저출생·고령화 해소 및 돌봄체계 구축",
+      "summary": "아이 키우기 좋은 나라를 위한 돌봄·교육, 일·가정 양립 지원을 강화하고 고령사회 대응을 위한 통합적 지원체계를 마련한다.",
+      "category": "복지",
+      "keywords": [
+        "저출생",
+        "고령사회",
+        "일·가정 양립"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.11 복지 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p027",
+      "seq": 27,
+      "title": "다양한 유형의 주택 공급 확대, 재개발·재건축 규제 합리화 및 지원 확대",
+      "summary": "다양한 유형의 주택 공급과 재개발·재건축 지원을 확대하고, 맞춤형 공공분양 및 고품질 공공임대 공급을 확대한다.",
+      "category": "도시",
+      "keywords": [
+        "재개발",
+        "재건축",
+        "공공분양",
+        "공공임대"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.11 복지 강국 ⑤",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "국토교통부 보도자료(2026-10-20)가 서울 동자동 쪽방촌 공공주택지구 지정과 2,150호 규모 주택공급 추진을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "서울 동자동 쪽방촌 공공주택지구 지정, 도심 속 2,150호 규모의 주택공급 추진",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785796",
+          "published_at": "2026-10-20",
+          "locator": "대한민국 정책브리핑 보도자료(2026-10-20, 국토교통부)",
+          "note": "서울 동자동 쪽방촌 공공주택지구 지정, 2,150호 규모",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p028",
+      "seq": 28,
+      "title": "노동이 존중받는 사회 실현",
+      "summary": "자영업자·특수고용·플랫폼 노동자 등 일하는 모든 사람의 권리 보장, 사회적 합의를 통한 주4.5일제 단계적 도입 및 정년 연장, 플랫폼 중개 수수료율 차별 금지, 지방정부 근로감독 권한 강화, '근로자의 날'을 '노동절'로 명칭 변경을 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "주4.5일제",
+        "정년 연장",
+        "플랫폼 중개 수수료율",
+        "근로감독",
+        "노동절"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.12 상생 사회 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "고용노동부 보도자료(2026-05-06)가 2026년 노동절 유공 정부포상 전수식과 첫 노동절 유공자 선정을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "다시 모두의 노동절 모든 일하는 사람이 대한민국의 빛입니다.",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156760014",
+          "published_at": "2026-05-06",
+          "locator": "대한민국 정책브리핑 보도자료(2026-05-06, 고용노동부)",
+          "note": "2026년 노동절 유공 정부포상 전수식, 첫 노동절 유공자 210명",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p029",
+      "seq": 29,
+      "title": "소상공인·자영업자 부담 완화 및 매출 확대",
+      "summary": "코로나19 대출의 채무조정부터 탕감까지 단계적 대책, 임대료·인건비·에너지 비용 등 경영부담 종합대책, 온라인시장의 공정한 거래와 상생 촉진, 자영업자 산재보험 가입 확대 및 상병수당 확대를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "코로나19 대출",
+        "채무조정",
+        "산재보험",
+        "상병수당"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.12 상생 사회 ②",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "중소벤처기업부 보도자료(2025-12-14)가 시행 중인 코로나19 피해 소상공인 분할상환지원의 신청기간을 2026년 6월 30일까지 연장한다고 적고 있음. 새 채무조정·탕감 대책의 착수 근거는 확인하지 못함",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "'코로나19 피해 소상공인 분할상환지원'신청기간 2026년 6월 30일까지 연장",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156734978",
+          "published_at": "2025-12-14",
+          "locator": "대한민국 정책브리핑 보도자료(2025-12-14, 중소벤처기업부)",
+          "note": "코로나19 피해 소상공인 분할상환지원 신청기간 2026.6.30.까지 연장",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p030",
+      "seq": 30,
+      "title": "우리 경제의 허리, 중소기업 역량 강화",
+      "summary": "AI·로봇 등을 활용한 중소기업 디지털 전환 지원, 납품대금 연동제 보완 및 현실화, 중소기업 복지 플랫폼 예산 확대, 불공정거래 피해구제 지원제도 강화를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "중소기업 디지털 전환",
+        "납품대금 연동제",
+        "중소기업 복지 플랫폼"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.12 상생 사회 ③",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "중소벤처기업부 보도자료(2026-07-02)가 납품대금 연동대상 확대와 에너지경비 연동 가이드북 배포를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "납품대금 연동대상 확대, '에너지경비 연동 가이드북'으로 차질 없이 준비",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769241",
+          "published_at": "2026-07-02",
+          "locator": "대한민국 정책브리핑 보도자료(2026-07-02, 중소벤처기업부)",
+          "note": "납품대금 연동대상 확대, 중기부·공정위 공동 에너지경비 연동 가이드북 배포",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p031",
+      "seq": 31,
+      "title": "여성이 일하기 좋은 사회 조성, 여성 권리증진 및 건강·안전 사회 실현",
+      "summary": "여성이 일하기 좋은 사회를 조성하고 여성 권리증진 및 건강·안전 사회를 실현한다.",
+      "category": "복지",
+      "keywords": [
+        "여성 권리증진"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.12 상생 사회 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p032",
+      "seq": 32,
+      "title": "청년 주거 및 청년 일자리 지원 강화, 청년 국민연금 생애 첫 보험료 지원",
+      "summary": "청년 주거 및 청년 일자리 지원을 강화하고 청년 국민연금 생애 첫 보험료를 지원한다.",
+      "category": "복지",
+      "keywords": [
+        "청년 주거",
+        "청년 일자리",
+        "청년 국민연금",
+        "생애 첫 보험료"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.12 상생 사회 ⑤",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "보건복지부 보도자료(2026-08-28)가 18세 청년의 첫 연금 보험료를 지원하는 생애 첫 연금 보험료 지원사업의 2027년 시작을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "아이 양육이 어렵지 않도록, 고립은둔 청년에 나아갈 힘이 되도록, 2027년 핵심 청년 예산 발표",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775938",
+          "published_at": "2026-08-28",
+          "locator": "대한민국 정책브리핑 보도자료(2026-08-28, 보건복지부)",
+          "note": "2027년 핵심 청년 예산, 생애 첫 연금 보험료 지원사업 2027년부터",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p033",
+      "seq": 33,
+      "title": "대학 및 국립대 교육 역량 강화",
+      "summary": "지방거점국립대 예산 확대, 지방거점국립대-지역 과학기술원-해외유수대학 간 공동연구 허브 구축, 대학원 연구중심 전환 유도, 취업 후 학자금대출 소득요건 완화 및 이자면제 대상 확대를 추진한다.",
+      "category": "교육",
+      "keywords": [
+        "지방거점국립대",
+        "지역 과학기술원",
+        "공동연구 허브",
+        "취업 후 학자금대출"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.13 교육 강국 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "교육부 보도자료(2026-09-01)가 국가대표 거점국립대학 선정 결과를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776959",
+          "published_at": "2026-09-01",
+          "locator": "대한민국 정책브리핑 보도자료(2026-09-01, 교육부)",
+          "note": "국가대표 거점국립대학 선정 결과 발표",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p034",
+      "seq": 34,
+      "title": "민주주의 교육 강화",
+      "summary": "학생 대상 민주주의 과정과 토론형 참여 교육, 교원 대상 민주시민교육·인권·환경·평화 연수 프로그램 운영을 강화하고, 학생 스스로 학습 가능한 교육 콘텐츠를 제공한다.",
+      "category": "교육",
+      "keywords": [
+        "민주시민교육",
+        "토론형 참여 교육"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.13 교육 강국 ②",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p035",
+      "seq": 35,
+      "title": "과학기술인 연구 환경 개선",
+      "summary": "대학 내·대학 간 인력·예산·시설 공유로 연구 경쟁력 강화 기반을 구축하고, 과학기술인·현장연구자 처우 개선과 과학기술 정책 거버넌스 운영 내실화를 추진한다.",
+      "category": "교육",
+      "keywords": [
+        "과학기술인",
+        "현장연구자"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.13 교육 강국 ③",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p036",
+      "seq": 36,
+      "title": "교권 보호 및 민주적 학교 운영 기반 마련",
+      "summary": "교권을 보호하고 민주적 학교 운영 기반을 마련한다.",
+      "category": "교육",
+      "keywords": [
+        "교권 보호"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.13 교육 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p037",
+      "seq": 37,
+      "title": "온실가스 감축 가속화",
+      "summary": "선진국으로서 책임에 걸맞은 온실가스 감축목표 수립, 재생에너지 중심의 에너지 전환 가속화, 탄소중립 산업전환, 히트펌프·그린수소·에너지저장장치(ESS) 등 탄소중립산업 지원·육성을 추진한다.",
+      "category": "환경",
+      "keywords": [
+        "온실가스 감축목표",
+        "재생에너지",
+        "탄소중립",
+        "히트펌프",
+        "그린수소"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.14 미래 강국 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "국무조정실 보도자료(2026-09-30)가 국가기본계획 이행점검 결과로 2035 NDC 수립(2025.11.)과 철강산업특별법 제정 등을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "[보도자료] 25년도 온실가스 감축목표&middot;국가기본계획 이행점검 결과",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783653",
+          "published_at": "2026-09-30",
+          "locator": "대한민국 정책브리핑 보도자료(2026-09-30, 국무조정실)",
+          "note": "'25년도 온실가스 감축목표·국가기본계획 이행점검 결과, 2035 NDC 수립('25.11.)",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p038",
+      "seq": 38,
+      "title": "탈플라스틱 기반 자원순환 사회 조성",
+      "summary": "탈플라스틱 국가 로드맵 수립, 바이오플라스틱 산업 육성 및 지원, 휴대폰 등 소비자 수리권 보장을 추진한다.",
+      "category": "환경",
+      "keywords": [
+        "탈플라스틱 국가 로드맵",
+        "바이오플라스틱",
+        "소비자 수리권"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.14 미래 강국 ②",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p039",
+      "seq": 39,
+      "title": "미세먼지 저감을 통한 대기질 개선",
+      "summary": "2040년까지 석탄발전 폐쇄, 중국·일본 등 주변국과 미세먼지 저감 협력, 전기차 보급 확대 및 노후 경유차 조기 대·폐차 지원을 추진한다.",
+      "category": "환경",
+      "keywords": [
+        "미세먼지",
+        "석탄발전 폐쇄",
+        "전기차",
+        "노후 경유차"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.14 미래 강국 ③",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "기후에너지환경부 보도자료(2026-01-13)가 2026년도 전기차 보조금 업무처리지침 확정과 내연차 전환지원금 신설을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "2026년도 전기차 보조금 업무처리지침 확정",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156739487",
+          "published_at": "2026-01-13",
+          "locator": "대한민국 정책브리핑 보도자료(2026-01-13, 기후에너지환경부)",
+          "note": "2026년도 전기차 보조금 업무처리지침 확정, 전환지원금 신설",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p040",
+      "seq": 40,
+      "title": "한반도 생물 다양성 복원",
+      "summary": "산불 발생 지역 생물다양성 복원, 육지와 해양의 생물다양성보호구역 단계적 확대, 국가생물다양성위원회 기능 강화를 추진한다.",
+      "category": "환경",
+      "keywords": [
+        "생물다양성보호구역",
+        "국가생물다양성위원회",
+        "산불 발생 지역"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.14 미래 강국 ④",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    },
+    {
+      "id": "president-2025-p041",
+      "seq": 41,
+      "title": "국민 안전 국가관리체계 확립",
+      "summary": "재난 통합 대응 체계와 재난 사전 예방 체계화, 중대 재난 보상 강화와 사고조사 유족 목소리 반영 제도화, 사회재난 대응체계 구축, 재난 피해 국가지원 강화, 범죄로부터 안전한 사회 구축, 민생침해 금융범죄 처벌 및 금융소비자 보호 제도 개선을 추진한다.",
+      "category": "안전",
+      "keywords": [
+        "재난 통합 대응 체계",
+        "중대 재난",
+        "사회재난",
+        "민생침해 금융범죄"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.15 안전 국가 ①",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "법제처 보도자료(2026-10-01)가 10월 시행 법령으로 가상자산 활용 보이스피싱 피해 구제 확대를 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "가상자산 활용 보이스피싱 피해 구제 확대 및 배달앱 원산지 표시 고지 의무화",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783891",
+          "published_at": "2026-10-01",
+          "locator": "대한민국 정책브리핑 보도자료(2026-10-01, 법제처)",
+          "note": "가상자산 활용 보이스피싱 피해 구제 확대 등 10월 시행 법령",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p042",
+      "seq": 42,
+      "title": "스마트 농업 확산, 농업재해 보상 현실화 및 생산비 부담 경감",
+      "summary": "주민참여 스마트 농업 경영체 육성, 농업재해보상 지원 단가 현실화 및 보험료 할증 최소화, 친환경유기농업 확대와 지속가능한 축산업, 농업인 노후 보장 및 농가소득망 구축, 쌀 적정 가격 보장, 농가 태양광 보급을 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "스마트 농업",
+        "농업재해보상",
+        "친환경유기농업",
+        "쌀 적정 가격",
+        "농가 태양광"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.15 안전 국가 ②",
+      "status": "in_progress",
+      "status_decided_at": "2026-11-09",
+      "status_reason": "농림축산식품부 보도자료(2025-11-23)가 농작물재해보험 과수 4종 전기간 종합위험상품 신규 도입을 적고 있음",
+      "evidence": [
+        {
+          "kind": "press_release",
+          "title": "농작물재해보험, 과수 4종 전기간 종합위험상품 신규 도입",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156730911",
+          "published_at": "2025-11-23",
+          "locator": "대한민국 정책브리핑 보도자료(2025-11-23, 농림축산식품부)",
+          "note": "농작물재해보험 과수 4종 전기간 종합위험상품 신규 도입",
+          "checked_at": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "president-2025-p043",
+      "seq": 43,
+      "title": "살맛나는 어촌, 지속가능한 수산경제",
+      "summary": "어민 소득증대 지원 및 정주여건 개선, 기후위기 대응을 위한 지속가능한 수산업 육성, 청년어업인 지원금 확대를 통한 일자리 창출 및 어촌 고령화 해소를 추진한다.",
+      "category": "경제",
+      "keywords": [
+        "어촌",
+        "수산업",
+        "청년어업인 지원금"
+      ],
+      "source_url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_doc.pdf&requestedFullPath=20250603/PDF/PRMS_DOC_PUB/1/004_100153692_20250516_1.pdf",
+      "source_locator": "p.15 안전 국가 ③",
+      "status": "not_started",
+      "status_decided_at": null,
+      "status_reason": "대한민국 정책브리핑 보도자료(2025-06-04~2026-11-08 발표분) 검색에서 착수 근거를 찾지 못함",
+      "evidence": []
+    }
+  ]
+}
