@@ -1,0 +1,1 @@
+-- 시드 데이터는 scripts/load-dataset.ts 로 넣는다 (이 파일은 비워 둔다).
